@@ -1,0 +1,83 @@
+<ion-header no-border>
+  <ion-navbar transparent text-center>
+    <ion-title>
+      Otros Estudios
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid *ngIf = "!showContactList()">
+    <ion-row>
+      <ion-col>
+        Contact Name
+      </ion-col>
+      <ion-col>
+        Ver
+      </ion-col>
+      <ion-col>
+        Editar
+      </ion-col>
+      <ion-col>
+        Descartar
+      </ion-col>
+    </ion-row>
+
+    <ion-row  *ngFor = "let c of contactList " class="contact-btns">
+      <ion-col >
+
+          <button ion-button color="buttonresult">
+            <h2>
+                <ion-icon ios="ios-contact" md="md-contact" ></ion-icon>
+            </h2>
+            <div class="contact-avatar">
+
+            </div>
+
+          </button>
+          <!-- <p>
+            {{ c.userName }}  
+          </p> -->
+
+      </ion-col>
+      <ion-col>
+        <button ion-button  (click)= "goResult(c)" color="contactbtns">
+          <ion-icon ios="ios-eye" md="md-eye"></ion-icon><br>
+        </button>
+      </ion-col>
+      <ion-col>
+        <button ion-button color="contactbtns" (click)= "goEditContact(c)">
+          <ion-icon ios="ios-brush" md="md-brush"></ion-icon>
+        </button>
+      </ion-col>
+      <ion-col>
+        <button ion-button color="contactbtns" (click) = "opneModal(c.idUser)"   >
+          <ion-icon ios="ios-close" md="md-close"></ion-icon>
+        </button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+<ion-grid *ngIf = "showContactList()">
+  <ion-row class="text-advice" >
+    <p>
+      Tu lista de coincidencia está vacía :(
+    </p>
+  </ion-row>
+</ion-grid>
+
+<ion-grid class="add-contact">
+  <ion-item>
+    <button ion-button color="success" 
+            round float-right 
+            (click)="goProfileForm()" title="Agregar"
+            outline
+            color="mediumblue" >
+      <ion-icon ios="ios-add" md="md-add"></ion-icon>
+    </button>
+  </ion-item>
+</ion-grid> 
+
+</ion-content>
+
+<!-- 068587 -->

@@ -1,0 +1,24 @@
+$colors : (
+    green-color: #CBCC79,
+    darkblue-color: #292D38,
+    mediumblue-color: #068587,
+    lightblue-color: #BCCCC3,
+    red-color: #ED553B
+);
+
+page-home {
+    
+    .home-bg {
+        background-image: url('../../assets/imgs/bg1.jpg');
+        background-size: cover;
+    }
+
+    .welcome-msg {
+        color: #112F41;
+    }
+
+
+}
+
+
+

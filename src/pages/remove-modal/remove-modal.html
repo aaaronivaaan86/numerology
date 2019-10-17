@@ -1,0 +1,31 @@
+<!--
+  Generated template for the RemoveModalPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Descartar Contacto</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+
+  <form >
+    <ion-item text-justify>
+      <h3>
+        ¿Está seguro que desea descartar el contacto?
+      </h3>
+    </ion-item>
+    <ion-item text-center> 
+      <button ion-button col-4 color = "secondary" (click) = "removeContact()">Sí</button>
+      <button ion-button col-4 color = "danger" (click) = "closeModal()">No</button>
+    </ion-item>
+
+  </form>
+
+
+</ion-content>

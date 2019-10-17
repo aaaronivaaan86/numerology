@@ -1,0 +1,66 @@
+
+<ion-header>
+  <ion-navbar color="mediumblue">
+    <ion-title>Estudio Numerológico</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+  <ion-grid>
+    <ion-row text-justify>
+      <ion-col col-12 >
+        <h3>
+          Estimad@ {{ userInfo.userName }}:
+        </h3>
+
+      </ion-col>
+    </ion-row>
+    <ion-row  text-justify>
+      <ion-col col-12>
+        {{ profileDescription }}
+      </ion-col>
+    </ion-row>
+
+    <br>
+    <br>
+    <ion-row>
+      <ion-col>
+        
+      </ion-col>
+      <ion-col>
+        Nombre
+      </ion-col>
+      <ion-col>
+        <p float-right>
+          Número
+        </p>
+
+      </ion-col>
+    </ion-row>
+
+    <ion-row *ngFor="let n of numbersList">
+      <ion-col>
+        <img [src]="n.imgsrc" alt="icon" >
+      </ion-col>
+      <ion-col>
+        {{ n.name }}
+      </ion-col>
+      <ion-col>
+        <button ion-button round float-right class="btn-result"
+                (click)="goDetails(n.id, n.name , n.userNumber )"
+                 >
+          {{ n.userNumber }}
+        </button>
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col>
+        <button ion-button full color= "mediumblue"  (click)="goServices()" >
+          Conoce más
+        </button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

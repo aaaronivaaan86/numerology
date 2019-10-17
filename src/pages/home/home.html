@@ -1,0 +1,26 @@
+<ion-header no-border>
+  <ion-navbar  text-center  color="navstyle" >
+    <ion-title class="title"  >Numerología en tu vida</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="home-bg">
+
+  <ion-row>
+    <ion-col size="12" text-center>
+      <h3 class="welcome-msg">
+        Bienvenido
+      </h3>
+    </ion-col>
+  </ion-row>
+
+  <ion-row>
+    <ion-col size="12" text-justify>
+        <p *ngFor = "let p of appDescription">
+            {{ p.paragraph }}
+          </p>        
+    </ion-col>
+  </ion-row>
+
+
+</ion-content>

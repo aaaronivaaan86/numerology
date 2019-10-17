@@ -1,0 +1,44 @@
+$colors : (
+    green-color: #CBCC79,
+    darkblue-color: #292D38,
+    mediumblue-color: #69ADBA,
+    lightblue-color: #BCCCC3,
+    red-color: #E32D47
+);
+
+
+page-contact {
+    .text-advice {
+        color: color($colors, red-color);
+        text-align: center;
+    }
+    .contact-btns {
+        button {
+            box-shadow: none;
+        }
+    }
+
+    .add-contact {
+        position: fixed;
+        bottom: 10%;
+        right: 10%;
+        .item-block .item-inner {
+            border-bottom: none; 
+        }
+
+        button {
+            height: 40px !important;
+            width: 40px;
+        }
+    }
+
+    .contact-avatar{
+        display: none;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        background-color: #69ADBA;
+        border: 1px solid #068587;
+        margin: -50px 100px auto;
+    }
+}

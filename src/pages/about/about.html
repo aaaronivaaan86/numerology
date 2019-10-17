@@ -1,0 +1,97 @@
+<ion-header no-border>
+  <ion-navbar text-center color="mediumblue">
+    <ion-title>
+      Estudio numerológico
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <br>
+  <br>
+
+  <ion-row class="avatar-row">
+    <ion-col size="4"></ion-col>
+    <ion-col size="4">
+      <div class="user-avatar">
+      </div>
+    </ion-col>
+    <ion-col size="4"></ion-col>
+  </ion-row>
+
+  <ion-row>
+    <ion-col size="12">
+      <ion-input placeholder="  * Nombre(s)" [(ngModel)]="newUser.userName"></ion-input>
+    </ion-col>
+  </ion-row>
+
+  <ion-row>
+    <ion-col size="12">
+      <ion-input placeholder="  * Apellido Paterno" [(ngModel)]="newUser.userLast"></ion-input>
+    </ion-col>
+  </ion-row>
+  <ion-row>
+    <ion-col size="12">
+      <ion-input placeholder="  Apellido Materno" [(ngModel)]="newUser.userMLast"></ion-input>
+    </ion-col>
+  </ion-row>
+  <ion-row>
+    <ion-col size="12">
+      <ion-datetime placeholder="  * Fecha de nacimiento" displayFormat="MM/DD/YYYY" [(ngModel)]="newUser.userBirth">
+      </ion-datetime>
+    </ion-col>
+  </ion-row>
+
+
+<ion-row *ngIf="showErrorMsg">
+  <ion-col size="12" text-center>
+      <p class="text-danger">
+          <b>
+            Por favor, completa los campos necesarios*
+          </b>
+        </p>
+
+  </ion-col>
+</ion-row>
+
+  <!-- TUTORIAL -->
+  <ion-row class="btn-row">
+    <ion-col width-50 style="text-align: right">
+      <button color="yellow" ion-button round *ngIf="showAddContactButton() && !editContact"
+        (click)="goTutorial()">Tutorial</button>
+    </ion-col>
+    <ion-col width-50 style="text-align: left">
+      <button color="mediumblue" ion-button round *ngIf="showAddContactButton() && !editContact"
+        (click)="goResult()">Consultar</button>
+    </ion-col>
+  </ion-row>
+  <br>
+
+  <!-- COINCIDENCE -->
+  <ion-row>
+    <ion-col size="12" text-center *ngIf="!showAddContactButton()">
+      <button ion-button round color="mediumblue" (click)="addContaact()">Añadir coincidencia</button>
+    </ion-col>
+
+    <ion-col size="12" *ngIf="editContact" text-center>
+      <button ion-button round color="mediumblue" (click)="contactEdit()">Editar coincidencia</button>
+    </ion-col>
+    <br>
+
+  </ion-row>
+
+
+
+
+  <ion-row>
+    <ion-col size="12" text-center class="" class="privacy-text-cont">
+      <small (click)="goLegal()">Aviso de Privacidad </small>
+    </ion-col>
+  </ion-row>
+
+
+
+
+
+</ion-content>

@@ -1,0 +1,59 @@
+$colors : (
+    green-color: #CBCC79,
+    darkblue-color: #292D38,
+    mediumblue-color: #69ADBA,
+    lightblue-color: #BCCCC3,
+    red-color: #E32D47
+);
+
+
+page-about {
+    .title {
+        color: color($colors, darkblue-color);
+    }
+    .form-label {
+        color: color($colors, mediumblue-color);
+    }
+    .mybutton {
+        background-color: color($colors, lightblue-color);
+    }
+    .avatar-row {
+        padding-top: 10vh;
+        padding-bottom: 5vh;
+        .user-avatar{
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: #69ADBA;
+            border: 1px solid #068587;
+            margin: -50px 100px auto;
+        }
+    }
+
+    .text-danger {
+        color: #f53d3d;
+    }
+      
+    ion-input {
+        background-color: rgba(30, 31, 33, 0.1) !important ;
+        border-radius: 64px;
+        margin-bottom: 5%;
+        padding-left: 10%;
+    }
+    .item-cover {
+        background-color: rgba(30, 31, 33, 0.1) !important ;
+        border-radius: 64px;
+        margin-bottom: 5%;
+        padding-left: 10%;
+    }
+
+    .btn-row{
+        margin-top: 10px;
+    }
+
+    .privacy-text-cont small{
+        padding-bottom: 5%;
+    }
+
+
+}

@@ -1,0 +1,7 @@
+{
+  "name": "napp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
