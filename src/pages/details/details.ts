@@ -3,7 +3,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { Storage } from '@ionic/storage';
 
 import { NumerologyNum } from '../../shared/models/number';
-import { numbers } from '../../shared/models/numbers';
+import { numbers } from '../../shared/const/numbers';
 
 
 /**

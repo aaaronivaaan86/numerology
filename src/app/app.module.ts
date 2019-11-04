@@ -26,6 +26,7 @@ import { CheckoutPage } from '../pages/checkout/checkout';
 import { TutorialPage } from '../pages/tutorial/tutorial';
 import { LegalPage } from '../pages/legal/legal';
 import { StatusBar } from '@ionic-native/status-bar';
+import { NumberContentService } from '../shared/services/number-content.service';
 
 @NgModule({
   declarations: [
@@ -71,6 +72,7 @@ import { StatusBar } from '@ionic-native/status-bar';
     File,
     FileOpener,
     Stripe,
+    NumberContentService,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })

@@ -4,9 +4,11 @@ import { HTTP } from '@ionic-native/http';
 import { TooltipController } from 'ionic-tooltips';
 import { ServiceModel } from '../../shared/models/service-model';
 import { CheckoutPage } from '../checkout/checkout';
-import { numbersList } from '../../shared/models/numbers-list';
+import { numbersList } from '../../shared/const/numbers-list';
 
 import { Observable } from 'rxjs/Observable';
+import { User } from '../../shared/models/user';
+import { NumbersService } from '../../shared/services/numbers.service';
 
 /**
  * Generated class for the ServicesPage page.
@@ -20,7 +22,7 @@ import { Observable } from 'rxjs/Observable';
 @Component({
   selector: 'page-services',
   templateUrl: 'services.html',
-  providers: [HTTP, TooltipController]
+  providers: [HTTP, TooltipController, NumbersService]
 })
 export class ServicesPage {
 
@@ -33,14 +35,20 @@ export class ServicesPage {
   cardMonth: number;
   cardYear: number;
   cardCVV: string;
+  userInfo: User;
+
   private pdfObj = null;
+  
   constructor(public navCtrl: NavController, 
               public navParams: NavParams, 
               public http: HTTP, 
               private toastCtrl: ToastController,
-              public tooltipCtrl: TooltipController) {
+              public tooltipCtrl: TooltipController,
+              private numbersService: NumbersService) {
 
       this.serviceList = numbersList.filter(x => x.id > 8);
+      this.userInfo = this.navParams.get('user');
+      
   }
 
   ionViewDidLoad() {
@@ -50,25 +58,30 @@ export class ServicesPage {
 
   addToCart(service: ServiceModel, checkedService: any) {
     console.log(service);
-    console.log(checkedService);    
+    // console.log(checkedService);
     if (checkedService)
     {
       this.serviceOrder.push(service);
       this.totalAmount += service.price; 
     } else {
-      const idxRemove = this.serviceOrder.findIndex(s => service.id === s.id);
-      this.serviceOrder.splice(idxRemove, 1);
+      this.serviceOrder.splice(this.serviceOrder.findIndex(s => service.id === s.id), 1);
       this.totalAmount -= service.price;
-    }
-
-    console.log(this.serviceOrder);
-    
+    }    
   }
 
   goCheck() {
-    this.navCtrl.push(CheckoutPage, {total: this.totalAmount});
+    // console.log(this.serviceOrder);
+    this.getNumbers();
+
+    // this.navCtrl.push(CheckoutPage, {total: this.totalAmount});
   }
 
+
+  getNumbers() {
+    const x = this.numbersService.getPayNumbers(this.serviceOrder);
+    console.log(x);
+    
+  }
 
 
 

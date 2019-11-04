@@ -1,4 +1,4 @@
-import { ServiceModel } from "./service-model";
+import { ServiceModel } from "../models/service-model";
 
 export const  numbersList: ServiceModel[] = [
     {

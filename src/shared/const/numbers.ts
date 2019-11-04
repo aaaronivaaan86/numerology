@@ -666,17 +666,17 @@ export const numbers =
         },
         {
           id: "6",
-          content: "Eres una persona que suele ser sensible e intuitiva, por lo que debes de tener fe y no intelectualizar todo lo que te sucede. Buen anfitrión, gustas de recibir familiares y amigos cercanos en tu casa, buscando que pasen el tiempo de forma agradable y armónica. Eres responsable y protector de su familia, en ocasiones posesivo. Si llegas a sentir que te aplasta el peso de la responsabilidad pasas ésta a otras personas para que decidan por ti ocasionando que tengas  severos cambios de vida, por lo que es importante elegir y cerrar ciclos. No engañas ni mientes, buscas la ética, la belleza y la perfección, por lo que podrías caer en ver como mal hecho todo lo que hacen los demás, si trasladas esta perfección al plano de pareja podrías estar en constantes fricciones. Sabe conciliar y eres respetuoso.",
+          content: "Eres una persona que suele ser sensible e intuitiva, por lo que debes de tener fe y no intelectualizar todo lo que te sucede. Buen anfitrión, gustas de recibir familiares y amigos cercanos en tu casa, buscando que pasen el tiempo de forma agradable y armónica. Eres responsable y protector de tu familia, en ocasiones posesivo. Si llegas a sentir que te aplasta el peso de la responsabilidad pasas ésta a otras personas para que decidan por ti ocasionando que tengas  severos cambios de vida, por lo que es importante elegir y cerrar ciclos. No engañas ni mientes, buscas la ética, la belleza y la perfección, por lo que podrías caer en ver como mal hecho todo lo que hacen los demás, si trasladas esta perfección al plano de pareja podrías estar en constantes fricciones. Sabe conciliar y eres respetuoso.",
           color: ""
         },
         {
           id: "7",
-          content: "Eres una persona disciplinada, inteligente y analítica, que todo lo razona y trata de encontrar el por qué de las cosas, adentrándose en estudios que le ayuden a fundamentar una respuesta, busacndo el verdadero conocimiento. Reservado y solitario, evitas las multitudes, te aislas para reflexionar y cargar energía. Aceptas opiniones o críticas de los demás sin embargo tu alto sentido de la superación y la perfección podría ocasionar que no las escuhes y te tornes hipersensible a estas críticas en lugar de interiorizar y reflexionar. Líder, te gusta dirigir, tienes don de palabra y lo podrías utilizar para persuadir o influenciar a los demás. Delegas responsabilidades y confías en la respuesta de los demás. Se te recomienda meditar.",
+          content: "Eres una persona disciplinada, inteligente y analítica, que todo lo razona y trata de encontrar el por qué de las cosas, adentrándose en estudios que le ayuden a fundamentar una respuesta, buscando el verdadero conocimiento. Reservado y solitario, evitas las multitudes, te aislas para reflexionar y cargar energía. Aceptas opiniones o críticas de los demás sin embargo tu alto sentido de la superación y la perfección podría ocasionar que no las escuhes y te tornes hipersensible a estas críticas en lugar de interiorizar y reflexionar. Líder, te gusta dirigir, tienes don de palabra y lo podrías utilizar para persuadir o influenciar a los demás. Delegas responsabilidades y confías en la respuesta de los demás. Se te recomienda meditar.",
           color: ""
         },
         {
           id: "8",
-          content: "Eres una persona con don de mando, que tiene gran voluntad y resistencia física. Honesto y sensible, buscas en cada situación ser justo. Debes cuidar no caer en la ambición desmedida y en no robar las ideas de los demás en favor de llenar tu sed de poder y tus grandes anhelos de triunfar. Cuentas con poder material y espiritual, tu sabiduría y buen consejo te hacen un líder por excelencia, que sabes hacerse amar por los demás. Tienes gran consentración y gustas de proyectar a largo plazo, se recomienda no caer en la pasividad o en el desorden.",
+          content: "Eres una persona con don de mando, que tiene gran voluntad y resistencia física. Honesto y sensible, buscas en cada situación ser justo. Debes cuidar no caer en la ambición desmedida y en no robar las ideas de los demás en favor de llenar tu sed de poder y tus grandes anhelos de triunfar. Cuentas con poder material y espiritual, tu sabiduría y buen consejo te hacen un líder por excelencia, que sabes hacerse amar por los demás. Tienes gran concentración y gustas de proyectar a largo plazo, se recomienda no caer en la pasividad o en el desorden.",
           color: ""
         },
         {
@@ -708,7 +708,7 @@ export const numbers =
         },
         {
           id: "4",
-          content: "Por el lado paterno, las expectativas son que desarrolles tu disciplina, constancia y discreción. Que aprendas a planear y que ahorres para que que tengas estructura material, una casa, terreno o inversiones tangibles. Que te dirijas de manera prudente y recta, que perseveres para lograr tu éxito. Que concretes tus ideas a través del trabajo. Que sepas expresar tus emociones, que fluyas y no las reprimas. Que tengas en el análisis una herramienta para tu toma de decisiones.",
+          content: "Por el lado paterno, las expectativas son que desarrolles tu disciplina, constancia y discreción. Que aprendas a planear y que ahorres para que tengas estructura material, una casa, terreno o inversiones tangibles. Que te dirijas de manera prudente y recta, que perseveres para lograr tu éxito. Que concretes tus ideas a través del trabajo. Que sepas expresar tus emociones, que fluyas y no las reprimas. Que tengas en el análisis una herramienta para tu toma de decisiones.",
           color: ""
         },
         {
@@ -728,7 +728,7 @@ export const numbers =
         },
         {
           id: "8",
-          content: "Por el lado paterno, las expectativas son que busques el equilibrio entre lo material y lo espiritual. Que te concentres en lo que quieres lograr y hagas uso de tu voluntad, concentración y fuerza interior para que triunfes. Que desarrolles tu liderazgo y don de mando. Que seas honesto, sensible y autocontrolado. Que tengas fe en los demás. Que seas bueno en los negocios y en la administración. ",
+          content: "Por el lado paterno, las expectativas son que busques el equilibrio entre lo material y lo espiritual. Que te concentres en lo que quieres lograr y hagas uso de tu voluntad, concentración y fuerza interior para que triunfes. Que desarrolles tu liderazgo y don de mando. Que seas honesto, sensible y autocontrolado. Que tengas fe en los demás. Que seas bueno en los negocios y en la administración.",
           color: ""
         },
         {
@@ -743,51 +743,51 @@ export const numbers =
       numberType: "Expectativas maternas",
       imgsrc: "assets/imgs/lotus.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Por el lado materno, las expectativas son que te guste decidir y ganar. Que te guste mandar, pues vas primero. Que seas original, emprendedor y que tengas mucha voluntad. Que tengas creatividad a nivel mental, seas práctico y capaz de cualquier esfuerzo para lograr tu meta. De decisiones rápidas e independiente. Que no te detengas en los detalles. Que tengas iniciativa, que emprendas.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Por el lado materno, las expectativas son que seas afectivo, simpático, reflexivo y observador. Que puedas ayudar a los que amas. Que seas una persona confiable. Que tengas constancia en todo lo que haces, que seas cooperativo y gentil. Que sepan que se puede contar contigo. Que tengas una pareja y en caso de no quererla tener que te acompañes de tu familia o amigos más cercanos, que no te encuentres solo.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Por el lado materno, las expectativas son que desarrolles tu creatividad y talento, buscando la armonía y estética a tu alrededor. Que disfrutes de la vida de manera despreocupada y alegre. Que disfrutes de la compañía de tus amigos, desarrollando la tolerancia, la paciencia y la alegría. Que seas una persona feliz.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Por el lado materno, las expectativas son que desarrolles tu disciplina, constancia y discreción. Que aprendas a planear y que ahorres para que que tengas estructura material, una casa, terreno o inversiones tangibles. Que te dirijas de manera prudente y recta, que perseveres para lograr tu éxito. Que concretes tus ideas a través del trabajo. Que sepas expresar tus emociones, que fluyas y no las reprimas. Que tengas en el análisis una herramienta para tu toma de decisiones.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Por el lado materno, las expectativas son que seas independiente, que actúes con libertad, que viajes y te guste aprender, que tengas la curiosidad por la vida, la naturaleza y quieras adquirir nuevo conocimiento. Se espera que desarrolles el don de la palabra, que te comuniques con fundamento. Que seas visionario e inventivo. Que te recuperes rápido de las caídas, de los fracasos. Que goces tu vida con tus cinco sentidos. Que seas adaptable a los cambios.",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Por el lado materno, las expectativas son que seas respetuoso y responsable. Que no mientas o engañes. Que te dirijas con ética y seas conciliador. Que aprendas a tomar tus propias decisiones sin dejar que alguien más las haga por ti ya que esto derivaría en que se presenten cambios severos en tu vida. Que te acerques a tu fe y hagas caso a tu intución, que te ayudará a tomar las elecciones que se te vayan presentando. Que aprendas a cerrar ciclos. Que seas hogareño y familiar.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Por el lado materno, las expectativas son que busques el verdadero conocimiento, que desarrolles un alto sentido de superación y perfección. Que aprendas a aceptar juicios y opiniones externas. Que confíes en la capacidad de los demás, que sepas delegar. Que seas estudioso, concentrado y disciplinado. Que seas influyente y persuasivo, con habilidades de liderazgo. Que tengas el gusto por viajar para crecer y compartir dichas experiencias. Que reafirmes tu poder personal.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Por el lado materno, las expectativas son que busques el equilibrio entre lo material y lo espiritual. Que te concentres en lo que quieres lograr y hagas uso de tu voluntad, concentración y fuerza interior para que triunfes. Que desarrolles tu liderazgo y don de mando. Que seas honesto, sensible y autocontrolado. Que tengas fe en los demás. Que seas bueno en los negocios y en la administración. ",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Por el lado materno, las expectativas radican en que hagas lo que te gusta, que tengas una vida entregada, evolucionada y de servicio a los demás. Que seas creativo y fuerte, que compartas o transmitas con los demás tu conocimiento, experiencias o ideales. Que seas una persona positiva, leal, fiel, simpática. Que te intereses por el mundo.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Por el lado materno, las expectativas son que te guste decidir y ganar. Que te guste mandar, pues vas primero. Que seas original, emprendedor y que tengas mucha voluntad. Que tengas creatividad a nivel mental, seas práctico y capaz de cualquier esfuerzo para lograr tu meta. De decisiones rápidas e independiente. Que no te detengas en los detalles. Que tengas iniciativa, que emprendas.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Por el lado materno, las expectativas son que seas afectivo, simpático, reflexivo y observador. Que puedas ayudar a los que amas. Que seas una persona confiable. Que tengas constancia en todo lo que haces, que seas cooperativo y gentil. Que sepan que se puede contar contigo. Que tengas una pareja y en caso de no quererla tener que te acompañes de tu familia o amigos más cercanos, que no te encuentres solo.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Por el lado materno, las expectativas son que desarrolles tu creatividad y talento, buscando la armonía y estética a tu alrededor. Que disfrutes de la vida de manera despreocupada y alegre. Que disfrutes de la compañía de tus amigos, desarrollando la tolerancia, la paciencia y la alegría. Que seas una persona feliz.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Por el lado materno, las expectativas son que desarrolles tu disciplina, constancia y discreción. Que aprendas a planear y que ahorres para que tengas estructura material, una casa, terreno o inversiones tangibles. Que te dirijas de manera prudente y recta, que perseveres para lograr tu éxito. Que concretes tus ideas a través del trabajo. Que sepas expresar tus emociones, que fluyas y no las reprimas. Que tengas en el análisis una herramienta para tu toma de decisiones.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Por el lado materno, las expectativas son que seas independiente, que actúes con libertad, que viajes y te guste aprender, que tengas la curiosidad por la vida, la naturaleza y quieras adquirir nuevo conocimiento. Se espera que desarrolles el don de la palabra, que te comuniques con fundamento. Que seas visionario e inventivo. Que te recuperes rápido de las caídas, de los fracasos. Que goces tu vida con tus cinco sentidos. Que seas adaptable a los cambios.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Por el lado materno, las expectativas son que seas respetuoso y responsable. Que no mientas o engañes. Que te dirijas con ética y seas conciliador. Que aprendas a tomar tus propias decisiones sin dejar que alguien más las haga por ti ya que esto derivaría en que se presenten cambios severos en tu vida. Que te acerques a tu fe y hagas caso a tu intución, que te ayudará a tomar las elecciones que se te vayan presentando. Que aprendas a cerrar ciclos. Que seas hogareño y familiar.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Por el lado materno, las expectativas son que busques el verdadero conocimiento, que desarrolles un alto sentido de superación y perfección. Que aprendas a aceptar juicios y opiniones externas. Que confíes en la capacidad de los demás, que sepas delegar. Que seas estudioso, concentrado y disciplinado. Que seas influyente y persuasivo, con habilidades de liderazgo. Que tengas el gusto por viajar para crecer y compartir dichas experiencias. Que reafirmes tu poder personal.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Por el lado materno, las expectativas son que busques el equilibrio entre lo material y lo espiritual. Que te concentres en lo que quieres lograr y hagas uso de tu voluntad, concentración y fuerza interior para que triunfes. Que desarrolles tu liderazgo y don de mando. Que seas honesto, sensible y autocontrolado. Que tengas fe en los demás. Que seas bueno en los negocios y en la administración. ",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Por el lado materno, las expectativas radican en que hagas lo que te gusta, que tengas una vida entregada, evolucionada y de servicio a los demás. Que seas creativo y fuerte, que compartas o transmitas con los demás tu conocimiento, experiencias o ideales. Que seas una persona positiva, leal, fiel, simpática. Que te intereses por el mundo.",
+          "color":""
+       }
       ]
     },
     {
@@ -795,51 +795,51 @@ export const numbers =
       numberType: "Actividades recomendadas ",
       imgsrc: "assets/imgs/lotus.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Gustas de hacer ejercicio o actividad física, de estar a solas contigo mismo, es conveniente salir un poco de ti mismo y disfrutar de la naturaleza. Descansar, bailar o hacer yoga. Se te recomienda leer, hacer ejercicio, competencias o juegos individuales, juegos de destreza, analizar, competir y pensar, investigar, salir a caminar solo, disfrutar el silencio, organizar.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Gustas de que te escuhen, que te agarren la mano, actividades artísticas, gastronomía, disfrutas el comer y que te inviten a comer, cocinar, chatear, hacer cosas en equipo, caminar, pláticas profundas,nadar, oír música. Se sugiere sonreir más y fortalecer la confianza en ti mismo.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Gustas de ir al circo, bailar, las fiestas, el arte, ir a museos, escultura, la belleza, todo lo relacionado con el arte, comunicarse, estar con los amigos, actividades físicas pero en conjunto no tanto en solitario. Se sugiere realices actividades artísticas donde despliegues todos tus talentos, realizar cosas de manera espontánea, disfrutar de la compañía de tus amigos. Reír.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Gustas de jugar juegos de concentración, armar rompecabezas, viajar de manera metódica, puebleando, no te gustan las sorpresas o cambios repentinos de planes, disfrutas de estar en familia, estar en tu casa, coleccionar, administrar, ir a cursos, aprender, leer. Se sugiere tener contacto con la naturaleza, tener cerca plantas, probar cosas distintas, escuchar antes de discutir.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Gustas de bailar, viajar, conocer lugares nuevos, comer bien, te agradan las sopresas, aventarte en la tirolesa,  la velocidad, andar en moto, los juegos mecánicos, aprender cosas nuevas, leer, aprender idiomas. Si tienes pareja es muy recomendable tener sexo, platicar con una copa de vino. ",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Gustas de practicar o desarrollar alguna actividad artística. Que todo sea armonioso y bello a tu alrededor. Rodearte de personas refinadas e intelectuales. Se sugiere terminar siempre lo que se haga, así sea una riña, romper un papel, leer un libro, etc. Realizar ejercicios que te ayuden a desarrollar tu intuición. Hacer respiraciones profundas y pausadas con la atención en el corazón (centro). Aceptar las elecciones propias seas cual sea el descenlace. ",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Gustas de analizar todo lo que vives e investigar el por qué de las cosas. Disfrutas de estar a solas para recargar tus energías. Se sugiere tomar cursos, leer, realizar actividades donde puedas instruir a los demás en cómo hacer las cosas, ir a museso, meditar, tai chi, hacer ejercicio.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Gustas de ir a centros comerciales, asistir a reuniones o tener una comida en un buen restaurante. Se sugiere realizar actividades relacionadas con la administración. Cualquier actividad física te ayuda a relajarte.",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Gustas de pertenecer a una asociación o fundación, viajar, ayudar, hacer servicio social, realizar actividades artísticas. Se sugiere tomar y dar cursos o clases, así transmitirías a los demas todos los conocimientos adquiridos.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Gustas de hacer ejercicio o actividad física, de estar a solas contigo mismo, es conveniente salir un poco de ti mismo y disfrutar de la naturaleza. Descansar, bailar o hacer yoga. Se te recomienda leer, hacer ejercicio, competencias o juegos individuales, juegos de destreza, analizar, competir y pensar, investigar, salir a caminar solo, disfrutar el silencio, organizar.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Gustas de que te escuhen, que te agarren la mano, actividades artísticas, gastronomía, disfrutas el comer y que te inviten a comer, cocinar, chatear, hacer cosas en equipo, caminar, pláticas profundas,nadar, oír música. Se sugiere sonreir más y fortalecer la confianza en ti mismo.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Gustas de ir al circo, bailar, las fiestas, el arte, ir a museos, escultura, la belleza, todo lo relacionado con el arte, comunicarse, estar con los amigos, actividades físicas pero en conjunto no tanto en solitario. Se sugiere realices actividades artísticas donde despliegues todos tus talentos, realizar cosas de manera espontánea, disfrutar de la compañía de tus amigos. Reír.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Gustas de jugar juegos de concentración, armar rompecabezas, viajar de manera metódica, puebleando, no te gustan las sorpresas o cambios repentinos de planes, disfrutas de estar en familia, estar en tu casa, coleccionar, administrar, ir a cursos, aprender, leer. Se sugiere tener contacto con la naturaleza, tener cerca plantas, probar cosas distintas, escuchar antes de discutir.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Gustas de bailar, viajar, conocer lugares nuevos, comer bien, te agradan las sopresas, aventarte en la tirolesa,  la velocidad, andar en moto, los juegos mecánicos, aprender cosas nuevas, leer, aprender idiomas. Si tienes pareja es muy recomendable tener sexo, platicar con una copa de vino. ",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Gustas de practicar o desarrollar alguna actividad artística. Que todo sea armonioso y bello a tu alrededor. Rodearte de personas refinadas e intelectuales. Se sugiere terminar siempre lo que se haga, así sea una riña, romper un papel, leer un libro, etc. Realizar ejercicios que te ayuden a desarrollar tu intuición. Hacer respiraciones profundas y pausadas con la atención en el corazón (centro). Aceptar las elecciones propias seas cual sea el descenlace. ",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Gustas de analizar todo lo que vives e investigar el por qué de las cosas. Disfrutas de estar a solas para recargar tus energías. Se sugiere tomar cursos, leer, realizar actividades donde puedas instruir a los demás en cómo hacer las cosas, ir a museso, meditar, tai chi, hacer ejercicio.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Gustas de ir a centros comerciales, asistir a reuniones o tener una comida en un buen restaurante. Se sugiere realizar actividades relacionadas con la administración. Cualquier actividad física te ayuda a relajarte.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Gustas de pertenecer a una asociación o fundación, viajar, ayudar, hacer servicio social, realizar actividades artísticas. Se sugiere tomar y dar cursos o clases, así transmitirías a los demas todos los conocimientos adquiridos.",
+          "color":""
+       }
       ]
     },
     {
@@ -847,51 +847,51 @@ export const numbers =
       numberType: "Actitud",
       imgsrc: "assets/imgs/flower.svg",
       numbers: [
-        {
-          "id": "1",
-          "content": "Actúas de manera rápida y activa, mostrándote líder, en ocasiones moralista, tomas decisiones, muestras seguridad en ti mismo, tomas la iniciativa.",
-          "color": ""
-        },
-        {
-          "id": "2",
-          "content": "Actúas de manera sensible, mostrándote empática y mediadora, con tendencia a solucionar conflictos.",
-          "color": ""
-        },
-        {
-          "id": "3",
-          "content": "Actúas de manera optimista, alegre, te gusta dar consejos, con deseos de brillar y triunfar, no te dejas derrotar, mantienes buena cara ante la adversidad.",
-          "color": ""
-        },
-        {
-          "id": "4",
-          "content": "Actúas de manera disciplinada y realista, analizas la situación, elaboras un plan de lo que se va a realizar, reaccionas de forma estable y tradicionalista, piensas bien antes de decidir, sabes como organizar.",
-          "color": ""
-        },
-        {
-          "id": "5",
-          "content": "Actúas de manera feliz y despreocupada. Independiente, no esperas a que alguien empiece a realizar algo. Reaccionas libremente buscando satisfacer las necesidades de tu cuerpo, gustas de divertirte y de aprender todo lo que puedas.",
-          "color": ""
-        },
-        {
-          "id": "6",
-          "content": "Actúas de manera paternal y tradicionalista, te gusta proteger, amas a la familia, quieres cerrar un ciclo antes de comenzar otro, reaccionas de forma carismática.",
-          "color": ""
-        },
-        {
-          "id": "7",
-          "content": "Actúas de manera introspectiva, solitaria, decidida, mística, te gusta guiar a los demáa aunque a veces las personas lo confundan con \"mandar\".",
-          "color": ""
-        },
-        {
-          "id": "8",
-          "content": "Actúas de manera equilibrada, te gusta organizar, tu mente y tu cuerpo son resistentes, a veces sientes que debes esforzarte mucho para obtener las cosas.",
-          "color": ""
-        },
-        {
-          "id": "9",
-          "content": "Actúas como un líder, de manera espiritual y generosa, libremente, dando servicio y ayudando a los demás.",
-          "color": ""
-        }
+        { 
+          "id":"1",
+          "content":"Actúas de manera rápida y activa, mostrándote líder, en ocasiones moralista, tomas decisiones, muestras seguridad en ti mismo, tomas la iniciativa.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Actúas de manera sensible, mostrándote empática y mediadora, con tendencia a solucionar conflictos.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Actúas de manera optimista, alegre, te gusta dar consejos, con deseos de brillar y triunfar, no te dejas derrotar, mantienes buena cara ante la adversidad.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Actúas de manera disciplinada y realista, analizas la situación, elaboras un plan de lo que se va a realizar, reaccionas de forma estable y tradicionalista, piensas bien antes de decidir, sabes como organizar.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Actúas de manera feliz y despreocupada. Independiente, no esperas a que alguien empiece a realizar algo. Reaccionas libremente buscando satisfacer las necesidades de tu cuerpo, gustas de divertirte y de aprender todo lo que puedas.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Actúas de manera paternal y tradicionalista, te gusta proteger, amas a la familia, quieres cerrar un ciclo antes de comenzar otro, reaccionas de forma carismática.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Actúas de manera introspectiva, solitaria, decidida, mística, te gusta guiar a los demáa aunque a veces las personas lo confundan con 'mandar'.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Actúas de manera equilibrada, te gusta organizar, tu mente y tu cuerpo son resistentes, a veces sientes que debes esforzarte mucho para obtener las cosas.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Actúas como un líder, de manera espiritual y generosa, libremente, dando servicio y ayudando a los demás.",
+          "color":""
+       }
       ]
     },
     {
@@ -899,51 +899,51 @@ export const numbers =
       numberType: "Fe",
       imgsrc: "assets/imgs/flower.svg",
       numbers: [
-        {
-          "id": "1",
-          "content": "Prefieres acercarte a tu Fe de manera solitaria, y al hacerlo sientes esa confianza en tí mismo, seguridad. Lo puedes hacer a través de la meditación en movimiento, haciendo caminatas conscientes, Tai Chi, danzas donde intervenga la fuerza y precisión como katas de karate, o danza de guerrero.",
-          "color": ""
-        },
-        {
-          "id": "2",
-          "content": "Prefieres acercarte a tu Fe junto con tu pareja. A través de la confesión, terapias en el agua, contemplación del mar, tejer, y de esta manera dejas de sentirte solo.",
-          "color": ""
-        },
-        {
-          "id": "3",
-          "content": "Te acercas a tu Fe bailando, cantando, comiendo con consciencia o desarrollando cualquier actividad artística. Cuando lo haces te sientes feliz y en armonía.",
-          "color": ""
-        },
-        {
-          "id": "4",
-          "content": "Te acercas a tu Fe de forma ritualística mediante un altar (estructura), a través de la meditación, la contemplación, la pintura (mandalas), la lectura o estudio místico, jardinería; y así sientes estabilidad, tranquilidad, que hay orden en tu vida.",
-          "color": ""
-        },
-        {
-          "id": "5",
-          "content": "Te acercas a tu Fe mediante la meditación y te hace sentir libre.",
-          "color": ""
-        },
-        {
-          "id": "6",
-          "content": "Te acercas a tu Fe en conjunto mediante la oración en familia con tus amigos considerados también parte de tu familia. Te acercas de igual manera a través de enseñar a orar a alguien más. Cuando te acerca a tu fe te sientes como en casa, protegido, te sientes como en familia, confías.",
-          "color": ""
-        },
-        {
-          "id": "7",
-          "content": "Te acercas a tu Fe a través de la meditación, la hipnosis, thetahealing, reiki, Tai Chi, oraciones. Cuando te acercas a tu fe te sientes en paz, con serenidad absoluta, estás en el aquí y en el ahora.",
-          "color": ""
-        },
-        {
-          "id": "8",
-          "content": "Te acercas a tu Fe a través de la meditación, agradeciendo, respirando conscientemente, contemplando. Cuando esto pasa te sientes en equilibrio, integrado en el infinito, con paz.",
-          "color": ""
-        },
-        {
-          "id": "9",
-          "content": "Te acercas a tu Fe en grupo o solo, a través de un ritual o sin él, a través del servicio, baile, naturaleza. Cuando te acercas a tu Fé te sientes completo, pleno, lo tienes todo.",
-          "color": ""
-        }
+        { 
+          "id":"1",
+          "content":"Prefieres acercarte a tu Fe de manera solitaria, y al hacerlo sientes esa confianza en tí mismo, seguridad. Lo puedes hacer a través de la meditación en movimiento, haciendo caminatas conscientes, Tai Chi, danzas donde intervenga la fuerza y precisión como katas de karate, o danza de guerrero.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Prefieres acercarte a tu Fe junto con tu pareja. A través de la confesión, terapias en el agua, contemplación del mar, tejer, y de esta manera dejas de sentirte solo.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Te acercas a tu Fe bailando, cantando, comiendo con consciencia o desarrollando cualquier actividad artística. Cuando lo haces te sientes feliz y en armonía.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Te acercas a tu Fe de forma ritualística mediante un altar (estructura), a través de la meditación, la contemplación, la pintura (mandalas), la lectura o estudio místico, jardinería; y así sientes estabilidad, tranquilidad, que hay orden en tu vida.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Te acercas a tu Fe mediante la meditación y te hace sentir libre.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Te acercas a tu Fe en conjunto mediante la oración en familia con tus amigos considerados también parte de tu familia. Te acercas de igual manera a través de enseñar a orar a alguien más. Cuando te acerca a tu fe te sientes como en casa, protegido, te sientes como en familia, confías.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Te acercas a tu Fe a través de la meditación, la hipnosis, thetahealing, reiki, Tai Chi, oraciones. Cuando te acercas a tu fe te sientes en paz, con serenidad absoluta, estás en el aquí y en el ahora.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Te acercas a tu Fe a través de la meditación, agradeciendo, respirando conscientemente, contemplando. Cuando esto pasa te sientes en equilibrio, integrado en el infinito, con paz.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Te acercas a tu Fe en grupo o solo, a través de un ritual o sin él, a través del servicio, baile, naturaleza. Cuando te acercas a tu Fé te sientes completo, pleno, lo tienes todo.",
+          "color":""
+       },
       ]
     },
     {
@@ -951,51 +951,51 @@ export const numbers =
       numberType: "Miedo",
       imgsrc: "assets/imgs/flower.svg",
       numbers: [
-        {
-          "id": "1",
-          "content": "A estar solo, a ser dependiente, a no tomar decisiones, a iniciar proyectos o miedo a cualquier tipo de inicio, miedo a no valerse por sí mismo.",
-          "color": ""
-        },
-        {
-          "id": "2",
-          "content": "De perder a la pareja o de no encontrar pareja. De tener una mala relación con la figura materna.",
-          "color": ""
-        },
-        {
-          "id": "3",
-          "content": "De ser infeliz, que te falte el reconocimiento, quedarte sin amigos o estar sin amigos.",
-          "color": ""
-        },
-        {
-          "id": "4",
-          "content": "A la pobreza. No tener trabajo. A no lograr una estabilidad material. Miedo a que tu rigidez te impida actuar. A no saber externar lo que se siente y que tus emociones no fluyan.",
-          "color": ""
-        },
-        {
-          "id": "5",
-          "content": "De no ser libre, no gozar lo que se hace, tener alguna fobia, miedo a hablar en público.",
-          "color": ""
-        },
-        {
-          "id": "6",
-          "content": "A no tener familia, que le pueda pasar algo o perderla. A no cerrar ciclos y tener cambios de vida abruptos.",
-          "color": ""
-        },
-        {
-          "id": "7",
-          "content": "No tener éxito o estancarte. Temor a no interiorizar y profundizar en las cosas. Miedo a enfrentar situaciones.",
-          "color": ""
-        },
-        {
-          "id": "8",
-          "content": "Perder tanto el balance, el equilibrio o el control, miedo a vivir en un entorno de injusticias.",
-          "color": ""
-        },
-        {
-          "id": "9",
-          "content": "A no poder servir, a no dar lo suficiente, a no ayudar a los demás.",
-          "color": ""
-        }
+        { 
+          "id":"1",
+          "content":"A estar solo, a ser dependiente, a no tomar decisiones, a iniciar proyectos o miedo a cualquier tipo de inicio, miedo a no valerse por sí mismo.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"De perder a la pareja o de no encontrar pareja. De tener una mala relación con la figura materna.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"De ser infeliz, que te falte el reconocimiento, quedarte sin amigos o estar sin amigos.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"A la pobreza. No tener trabajo. A no lograr una estabilidad material. Miedo a que tu rigidez te impida actuar. A no saber externar lo que se siente y que tus emociones no fluyan.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"De no ser libre, no gozar lo que se hace, tener alguna fobia, miedo a hablar en público.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"A no tener familia, que le pueda pasar algo o perderla. A no cerrar ciclos y tener cambios de vida abruptos.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"No tener éxito o estancarte. Temor a no interiorizar y profundizar en las cosas. Miedo a enfrentar situaciones.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Perder tanto el balance, el equilibrio o el control, miedo a vivir en un entorno de injusticias.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"A no poder servir, a no dar lo suficiente, a no ayudar a los demás.",
+          "color":""
+       }
       ]
     },
     {
@@ -1003,51 +1003,51 @@ export const numbers =
       numberType: "Lo que espera de los demás",
       imgsrc: "assets/imgs/flower.svg",
       numbers: [
-        {
-          "id": "1",
-          "content": "Te llevas mejor con personas que son activas, que deciden y realizan los proyectos que tienen en mente, que son independientes, que son líderes y emprendedores. Aquellos que les gusta competir y ganar.",
-          "color": ""
-        },
-        {
-          "id": "2",
-          "content": "Te llevas mejor con personas que son sensibles, emotivas, que saben escuchar, que son reflexivas, que cooperan y se adaptan, que entienden al otro y lo apoyan. Que son personas de confiables.",
-          "color": ""
-        },
-        {
-          "id": "3",
-          "content": "Te llevas mejor con personas que son sociables, estéticas, tolerables y que viven la vida de manera despreocupada y que son felices. Te llama la atención las personas que disfrutan de la vida, que se adaptan a ella y que tienen mucha energía. ",
-          "color": ""
-        },
-        {
-          "id": "4",
-          "content": "Te llevas mejor con personas que estructuradas, estables, tranquilas, que les guste ahorrar y que siguen un plan en su vida. Que sean analíticas, reservadas, serias, en ocasiones rutinarias ya que lo espontáneo está fuera de su entender.",
-          "color": ""
-        },
-        {
-          "id": "5",
-          "content": "Te llevas mejor con personas que son creativos, de fácil comunicación, curiosos, inteligentes, visionarios, adpatables a los cambios, que tengan el gusto por viajar,que aprendan rápido, que no caigan en la rutinas o se estanquen en detalles, que se recupere fácilmente de las caídas, que sea independiente y que goce la vida con sus cinco sentidos.",
-          "color": ""
-        },
-        {
-          "id": "6",
-          "content": "Te llevas mejor con personas que son refinadas, armónicas, bellas por dentro y por fuera. Esperas que sean familiares y hospitalarias. Que sean conciliadores y responsables. Intuitivos, que no engañes y que no mientan ya que esto serían defectos y el busca la perfección en los demás. Que sepa cerrar ciclos y que tome la responsabilidad de decidir.",
-          "color": ""
-        },
-        {
-          "id": "7",
-          "content": "Te llevas mejor con personas que son reflexivas, disciplinadas, estudiosas, que se expresan de manera correcta. Aquellas que saben delegar y confiar en la capacidad de respuesta de los demás. Que son espirituales y que buscan el crecimiento interior. Que meditan y que les gusta viajar y compartir esas experiencias. Que son líderes y les gusta dirigir. Que saben perdonar y actuan de manera misericordiosa.",
-          "color": ""
-        },
-        {
-          "id": "8",
-          "content": "Te llevas mejor con personas que son equilibradas, justas, honestas, que muestran autocontrol. Que su resistencia mental y física la concentran en el logro de sus objetivos, que son buenos administradores.",
-          "color": ""
-        },
-        {
-          "id": "9",
-          "content": "Te llevas mejor con personas que son altruistas, que se involucran en causas humanitarias, que les gusta aprender y compartir sus conocimientos, que son simpáticas y buenos amigos.",
-          "color": ""
-        }
+        { 
+          "id":"1",
+          "content":"Te llevas mejor con personas que son activas, que deciden y realizan los proyectos que tienen en mente, que son independientes, que son líderes y emprendedores. Aquellos que les gusta competir y ganar.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Te llevas mejor con personas que son sensibles, emotivas, que saben escuchar, que son reflexivas, que cooperan y se adaptan, que entienden al otro y lo apoyan. Que son personas en las que puedes confiar.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Te llevas mejor con personas que son sociables, estéticas, tolerantes y que viven la vida de manera despreocupada y que son felices. Te llama la atención las personas que disfrutan de la vida, que se adaptan a ella y que tienen mucha energía. ",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Te llevas mejor con personas estructuradas, estables, tranquilas, que les guste ahorrar y que siguen un plan en su vida. Que sean analíticas, reservadas, serias, en ocasiones rutinarias ya que lo espontáneo está fuera de tu entender.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Te llevas mejor con personas que son creativas, de fácil comunicación, curiosas, inteligentes, visionarias, adpatables a los cambios, que tengan el gusto por viajar,que aprendan rápido, que no caigan en la rutinas o se estanquen en detalles, que se recuperen fácilmente de las caídas, que sean independientes y que gocen la vida con sus cinco sentidos.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Te llevas mejor con personas que son refinadas, armónicas, bellas por dentro y por fuera. Esperas que sean familiares y hospitalarias. Que sean conciliadores y responsables. Intuitivos, que no engañen y que no mientan ya que estos serían defectos y tú buscas la perfección en los demás. Que cierren ciclos y que tomen decisiones.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Te llevas mejor con personas que son reflexivas, disciplinadas, estudiosas, que se expresan de manera correcta. Aquellas que saben delegar y confiar en la capacidad de respuesta de los demás. Que son espirituales y que buscan el crecimiento interior. Que meditan y que les gusta viajar y compartir esas experiencias. Que son líderes y les gusta dirigir. Que saben perdonar y actuan de manera misericordiosa.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Te llevas mejor con personas que son equilibradas, justas, honestas, que muestran autocontrol. Que su resistencia mental y física la concentran en el logro de sus objetivos, que son buenos administradores.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Te llevas mejor con personas que son altruistas, que se involucran en causas humanitarias, que les gusta aprender y compartir sus conocimientos, que son simpáticas y buenos amigos.",
+          "color":""
+       },
       ]
     },
     {
@@ -1055,51 +1055,51 @@ export const numbers =
       numberType: "Primera Impresión",
       imgsrc: "assets/imgs/flower.svg",
       numbers: [
-        {
-          "id": "1",
-          "content": "Líder, organizado, decidido, competitivo, espiritual, que no te gusta equivocarte.",
-          "color": ""
-        },
-        {
-          "id": "2",
-          "content": "Con pareja de preferencia, sensible, bondadoso, creativo, inspirado. Que escuchas, que eres empático.",
-          "color": ""
-        },
-        {
-          "id": "3",
-          "content": "Alegre, emprendedor, amiguero, sociable, optimista y que te gusta verte bien.",
-          "color": ""
-        },
-        {
-          "id": "4",
-          "content": "Analítico, organizado, serio, reservado, trabajador, rígido.",
-          "color": ""
-        },
-        {
-          "id": "5",
-          "content": "Feliz, estudioso de muchos temas, despreocupado, abierto, con facilidad de palabra, atrevido, aventurero, libre.",
-          "color": ""
-        },
-        {
-          "id": "6",
-          "content": "Jefe de familia, protector, cariñoso, trabajador, responsable, comprometido, sensible.",
-          "color": ""
-        },
-        {
-          "id": "7",
-          "content": "Líder, decidido, místico, silencioso, fuerte, avasallador, de mucha presencia.",
-          "color": ""
-        },
-        {
-          "id": "8",
-          "content": "Alguien de negocios, con muchas ocupaciones, que realiza varias actividades, que organiza, equilibrado y con visión, alguien que se esfuerza mucho, con voluntad y valentía.",
-          "color": ""
-        },
-        {
-          "id": "9",
-          "content": "Fuerte, espiritual, de fácil trato, generoso, que te puede ayudar.",
-          "color": ""
-        }
+        { 
+          "id":"1",
+          "content":"Líder, organizado, decidido, competitivo, espiritual, que no te gusta equivocarte.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Con pareja de preferencia, sensible, bondadoso, creativo, inspirado. Que escuchas, que eres empático.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Alegre, emprendedor, amiguero, sociable, optimista y que te gusta verte bien.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Analítico, organizado, serio, reservado, trabajador, rígido.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Feliz, estudioso de muchos temas, despreocupado, abierto, con facilidad de palabra, atrevido, aventurero, libre.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Jefe de familia, protector, cariñoso, trabajador, responsable, comprometido, sensible.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Líder, decidido, místico, silencioso, fuerte, avasallador, de mucha presencia.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Alguien de negocios, con muchas ocupaciones, que realiza varias actividades, que organiza, equilibrado y con visión, alguien que se esfuerza mucho, con voluntad y valentía.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Fuerte, espiritual, de fácil trato, generoso, que te puede ayudar.",
+          "color":""
+       },
       ]
     },
     {
@@ -1107,51 +1107,51 @@ export const numbers =
       numberType: "Posibles padecimientos",
       imgsrc: "assets/imgs/lotus.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Artritis: Mucha crítica hacia los demás.\r\nCaída de pelo: Intentar tener el control de todo.\r\nInfecciones: Cuando las irritaciones se apoderan de alguien.\r\nProblemas de cuello: Inflexibilidad en ciertos temas.\r\nProblemas del sistema cardiovascular: Demasiada autoexigencia, no deja que el corazón decida\r\nAgotamiento intelectual: Demasiado pensar las cosas, vivir mucho en la mente",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Alergias: Sentimiento de marginación.\r\nDolor de cabeza: Baja autoestima, creer que no se es importante, miedo al futuro.\r\nDolor en la espalda baja: Miedo al fracaso económico.\r\nEstreñimiento: Dificultad para soltar a los demás o ideas que nos impiden crecer.\r\nProblemas de la piel: Creencia que \"la armadura\" que se trae no proteje.\r\nAnsiedad: Incapaz de vivir el presente, viven mucho en el pasado o en lo que podría ocurrir si…, su imaginación es muy grande.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Comer en exceso: miedo a la miseria.\r\nTodo el exceso en general, alcohol, comida, cigarro y sexo: gran desequilibrio corporal, desgaste orgánico, desequilibrio del sistema nervioso, infecciones, etc.\r\nDiabetes: añoranza de una vida más feliz y equilibrada.\r\nProblemas en la garganta: miedo a hablar fuerte, problemas de elocuencia.\r\nPie de atleta: desacuerdo con la propia trayectoria de vida.\r\nProblemas de nariz (sangrado): necesidad de reconocimiento.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Problemas del sistema óseo: temor de no apoyar o sentirse apoyado, devalorización de las propias capacidades y se desvaloriza cuando no se siente útil.\r\nArtritis: rigidez.\r\nAtaques de pánico: miedo a perder el control.\r\nEstreñimiento: dificultad para \"soltar\" a los demás o ideas que no permiten crecer.\r\nHipertensión o hipotensión: hipertensión: es hervir en cuestiones no resuletas / hipotensión: desesperanza ante los problemas.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Sensación de ahogo o asfixia: sensación de no ser libre.\r\nInsomnio: muchos pensamientos en la mente.\r\nÚlceras: algo que corroe.\r\nRiesgo a accidentes: irresponsabilidad en el uso de energía en la mente y en el cuerpo físico. También se da el caso de imprudencia o búsqueda de riesgos para sentir la vida (adrenalina).\r\nExcesos: camida, alcohol, cigarro, drogas, etc.\r\nProblemas con la rodilla: incapacidad de fluir con los cambios y los temas de la vida.",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Comer en exceso: miedo a la miseria, se sustituye el amor por comida.\r\nDiabetes: añoranza de una vida más dulce.\r\nDolor de hombros: se siente abrumado.\r\nIndigestión: temores, ansiedades y quejas.\r\nMigrañas: sentimiento de que los demás nos controlan, pensar que para descansar hay que estar enfermo.\r\nQuistes de mama: intentar controlar todas las situaciones que se viven o bien ser demasiado sobreprotector con quienes te rodean.\r\nDolor de oído: oir sólo lo negativo.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Alcoholismo: sentimiento de desesperanza, escape de la realidad.\r\nArtritis: mucha crítica hacia los demás.\r\nCaída de pelo: intentar tener el control de todo.\r\nDolor en la espalda baja: carga de viejas culpas.\r\nProblemas de cuello: inflexibilidad en ciertos temas.\r\nProblemas digestivos: cuando algo o alguien \"no te pasa\" por intolerancia.\r\nIndigestión: temor y ansiedad, exceso de quejas.\r\nDepresión: conflictos pendientes del pasado, la persona trata de no sentir tanta presión emocional.\r\nGusto excesivo por placeres artificiales (vicios): alcohol, droga, tabaquismo.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Dolor de cabeza: baja autoestima, creer que no se es importante, miedo al futuro.\r\nAtaques de pánico: miedo a perder el control.\r\nHipertensión y/o hipotensión: hipertensión: es hervir en cuestiones no resueltas. Hipotensión: es desesperanza ante los problemas.\r\nMal aliento: palabrotas, viejos pensamientos negativos.\r\nProblemas en la espalda: sensación de no contar con apoyo.\r\nTemblor en las manos: no querer afrontar problemas y tendencia a \"meter la pata\".\r\nProblemas en el pulmón: no acepta la vida tal y como es, problemas familiares, tristeza.\r\nÚlceras: algo que corroe.\r\nProblemas digestivos: intolerancia a alguien o a algo.\r\nTendencia a la obesidad: se guarda las cosas, no exterioriza lo que siente, acumula problemas, temor al rechazo, defensa pues no sabe negarse y están abatidos de mucha peticiones de los demás, o bien, quiere ser rechazada por el sexo opuesto y teme decir \"no\".",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Dolor en la espalda alta: sensación de no ser querido y no desear compartir el amor.\r\nProblemas de garganta: miedo a hablar fuerte, ira reprimida, creatividad no desarrollada.\r\nEstreñimiento: Apego a viejas ideas y aferramiento al pasado.\r\nTumores: culpa y no olvida el pasado, sobretodo cosas que le hieren, creencias incorrectas, terquedad, te rehusas a modificar viejos patrones.\r\nDesmayos: incapacidad de enfrentar los sucesos de la vida.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Artritis: Mucha crítica hacia los demás. Caída de pelo: Intentar tener el control de todo. Infecciones: Cuando las irritaciones se apoderan de alguien. Problemas de cuello: Inflexibilidad en ciertos temas. Problemas del sistema cardiovascular: Demasiada autoexigencia, no deja que el corazón decida Agotamiento intelectual: Demasiado pensar las cosas, vivir mucho en la mente",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Alergias: Sentimiento de marginación. Dolor de cabeza: Baja autoestima, creer que no se es importante, miedo al futuro. Dolor en la espalda baja: Miedo al fracaso económico. Estreñimiento: Dificultad para soltar a los demás o ideas que nos impiden crecer. Problemas de la piel: Creencia que 'la armadura' que se trae no proteje. Ansiedad: Incapaz de vivir el presente, viven mucho en el pasado o en lo que podría ocurrir si…, su imaginación es muy grande.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Comer en exceso: miedo a la miseria. Todo el exceso en general, alcohol, comida, cigarro y sexo: gran desequilibrio corporal, desgaste orgánico, desequilibrio del sistema nervioso, infecciones, etc. Diabetes: añoranza de una vida más feliz y equilibrada. Problemas en la garganta: miedo a hablar fuerte, problemas de elocuencia. Pie de atleta: desacuerdo con la propia trayectoria de vida. Problemas de nariz (sangrado): necesidad de reconocimiento.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Problemas del sistema óseo: temor de no apoyar o sentirse apoyado, devalorización de las propias capacidades y se desvaloriza cuando no se siente útil. Artritis: rigidez. Ataques de pánico: miedo a perder el control. Estreñimiento: dificultad para 'soltar' a los demás o ideas que no permiten crecer. Hipertensión o hipotensión: hipertensión: es hervir en cuestiones no resuletas / hipotensión: desesperanza ante los problemas.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Sensación de ahogo o asfixia: sensación de no ser libre. Insomnio: muchos pensamientos en la mente. Úlceras: algo que corroe. Riesgo a accidentes: irresponsabilidad en el uso de energía en la mente y en el cuerpo físico. También se da el caso de imprudencia o búsqueda de riesgos para sentir la vida (adrenalina). Excesos: camida, alcohol, cigarro, drogas, etc. Problemas con la rodilla: incapacidad de fluir con los cambios y los temas de la vida.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Comer en exceso: miedo a la miseria, se sustituye el amor por comida. Diabetes: añoranza de una vida más dulce. Dolor de hombros: se siente abrumado. Indigestión: temores, ansiedades y quejas. Migrañas: sentimiento de que los demás nos controlan, pensar que para descansar hay que estar enfermo. Quistes de mama: intentar controlar todas las situaciones que se viven o bien ser demasiado sobreprotector con quienes te rodean. Dolor de oído: oir sólo lo negativo.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Alcoholismo: sentimiento de desesperanza, escape de la realidad. Artritis: mucha crítica hacia los demás. Caída de pelo: intentar tener el control de todo. Dolor en la espalda baja: carga de viejas culpas. Problemas de cuello: inflexibilidad en ciertos temas. Problemas digestivos: cuando algo o alguien 'no te pasa' por intolerancia. Indigestión: temor y ansiedad, exceso de quejas. Depresión: conflictos pendientes del pasado, la persona trata de no sentir tanta presión emocional. Gusto excesivo por placeres artificiales (vicios): alcohol, droga, tabaquismo.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Dolor de cabeza: baja autoestima, creer que no se es importante, miedo al futuro. Ataques de pánico: miedo a perder el control. Hipertensión y/o hipotensión: hipertensión: es hervir en cuestiones no resueltas. Hipotensión: es desesperanza ante los problemas. Mal aliento: palabrotas, viejos pensamientos negativos. Problemas en la espalda: sensación de no contar con apoyo. Temblor en las manos: no querer afrontar problemas y tendencia a 'meter la pata'. Problemas en el pulmón: no acepta la vida tal y como es, problemas familiares, tristeza. Úlceras: algo que corroe. Problemas digestivos: intolerancia a alguien o a algo. Tendencia a la obesidad: se guarda las cosas, no exterioriza lo que siente, acumula problemas, temor al rechazo, defensa pues no sabe negarse y están abatidos de mucha peticiones de los demás, o bien, quiere ser rechazada por el sexo opuesto y teme decir 'no'.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Dolor en la espalda alta: sensación de no ser querido y no desear compartir el amor.Problemas de garganta: miedo a hablar fuerte, ira reprimida, creatividad no desarrollada. Estreñimiento: Apego a viejas ideas y aferramiento al pasado. Tumores: culpa y no olvida el pasado, sobretodo cosas que le hieren, creencias incorrectas, terquedad, te rehusas a modificar viejos patrones. Desmayos: incapacidad de enfrentar los sucesos de la vida.",
+          "color":""
+       }
       ]
     },
     {
@@ -1263,51 +1263,51 @@ export const numbers =
       numberType: "Oportunidades para mejorar tu interior",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Se te recomienda trabajar en dejar la apatía de lado y atreverte a iniciar nuevos proyectos, teniendo la seguridad en tí mismo para la toma de decisiones.",
-          color: ""
-      },
-      {
-          id: "2",
-          content: "Se te recomienda trabajar en evitar ser una person dependiente, no ser sobreprotector con la familia. Saber distiguir los límites para no caer en una tolerancia excesiva por no querer perder amistades. Hay que concretar los sueños. Evitar amistades que sean dañinas.",
-          color: ""
-      },
-      {
-          id: "3",
-          content: "Se te recomienda trabajar para evitar ser muy flexible ante los demás siendo demasiado tolerante. Evita caer en la superficialidad y en gastar por encima de tus capacidaddes financieras. Cuida de ti mismo y deja de hacer cosas para que los demás te quieran. Deja a lado los sentimientos de inferioridad y la depresión. ",
-          color: ""
-      },
-      {
-          id: "4",
-          content: "Se te recomienda trabajar en expresar tus emociones, si bien no será fácil porque temes el rechazo o equivocarte, sin embargo tienes la capacidad de aprender de tus errores y rehacer un nuevo plan, permítete fluir. Trabaja en ser disciplinado, constante, ordenado y perseverante, con esto alcanzarás todas las metas que te propongas. ",
-          color: ""
-      },
-      {
-          id: "5",
-          content: "Se te recomienda trabajar en ser resposable, enfoca tu atención en lo que deseas lograr e involucrate de manera comprometida. Estar muy atento para no ser esclavo del placer mundano. Fluye para externar lo que se piensas o sientes, acepta los cambios y el conocer nuevas personas. Sé independiente y atrévete a viajar.",
-          color: ""
-      },
-      {
-          id: "6",
-          content: "Se te recomienda trabajar para que confíes en tu intuición, acercate a tu fe y no te vuelvas superticioso, evita pasar por el intelecto todo lo que sucede a tu alrededor. Hay que valorar por lo que se ha trabajado, lo que se tiene en este momento es valioso. Distingue hasta que punto eres responsable para que no te sobreresposabilices de la situación o las tareas. Hay que vivir en el aquí y el ahora no escaparse de la realidad. La mentira y el engaño retrasan a tu evolución espiritual. Camina por la vía de la ética, la armonía y la belleza. Aprende a elegir y a cerrar ciclos.",
-          color: ""
-      },
-      {
-          id: "7",
-          content: "Se te recomienda trabajar para aprender a perdonar y de esta manera sanar y evolucionar. Evita procesar todo lo que vives a través de la razón hay que entenderlo y sentirlo. Hay que confiar en la capacidad de los demás para que puedas delegar responsabilidades y no generarte situaciones estresantes que puedan derivar en vicios. Sé reflexivo y comprende a los demás. Afirma tu poder personal y desarrolla tu don de palabra. Practica la meditación.",
-          color: ""
-      },
-      {
-          id: "8",
-          content: "Se te recomienda trabajar en tener un equilibrio entre tu mente y tu espíritu. Que sepas como proyectar tus ideas a largo plazo, que fortalezcas tu voluntad, concentración y resistencia física para lograr tu objetivos. Que trabajes tu sensibilidad y confíes en los demás. Hay que desarrollar tu don de mando y liderazgo.",
-          color: ""
-      },
-      {
-          id: "9",
-          content: "Se te recomienda trabajar para aprender a compartir, a dar servicio a los demás, que se materialicen tus ideas y proyectos para que la ayuda planeada a los demás realmente les llegue.",
-          color: ""
-      }
+        { 
+          "id":"1",
+          "content":"Se te recomienda trabajar en dejar la apatía de lado y atreverte a iniciar nuevos proyectos, teniendo la seguridad en tí mismo para la toma de decisiones.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Se te recomienda trabajar en evitar ser una persona dependiente, no ser sobreprotector con la familia. Saber distiguir los límites para no caer en una tolerancia excesiva por no querer perder amistades. Hay que concretar los sueños. Evitar amistades que sean dañinas.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Se te recomienda trabajar para evitar ser muy flexible ante los demás siendo demasiado tolerante. Evita caer en la superficialidad y en gastar por encima de tus capacidaddes financieras. Cuida de ti mismo y deja de hacer cosas para que los demás te quieran. Deja a lado los sentimientos de inferioridad y la depresión. ",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Se te recomienda trabajar en expresar tus emociones, si bien no será fácil porque temes el rechazo o equivocarte, sin embargo tienes la capacidad de aprender de tus errores y rehacer un nuevo plan, permítete fluir. Trabaja en ser disciplinado, constante, ordenado y perseverante, con esto alcanzarás todas las metas que te propongas. ",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Se te recomienda trabajar en ser resposable, enfoca tu atención en lo que deseas lograr e involucrate de manera comprometida. Estar muy atento para no ser esclavo del placer mundano. Fluye para externar lo que piensas o sientes, acepta los cambios y el conocer nuevas personas. Sé independiente y atrévete a viajar.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Se te recomienda trabajar para que confíes en tu intuición, acercate a tu fe y no te vuelvas superticioso, evita pasar por el intelecto todo lo que sucede a tu alrededor. Hay que valorar por lo que se ha trabajado, lo que se tiene en este momento es valioso. Distingue hasta que punto eres responsable para que no te sobre resposabilices de la situación o las tareas. Hay que vivir en el aquí y el ahora no escaparse de la realidad. La mentira y el engaño retrasan a tu evolución espiritual. Camina por la vía de la ética, la armonía y la belleza. Aprende a elegir y a cerrar ciclos.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Se te recomienda trabajar para aprender a perdonar y de esta manera sanar y evolucionar. Evita procesar todo lo que vives a través de la razón hay que entenderlo y sentirlo. Hay que confiar en la capacidad de los demás para que puedas delegar responsabilidades y no generarte situaciones estresantes que puedan derivar en vicios. Sé reflexivo y comprende a los demás. Afirma tu poder personal y desarrolla tu don de palabra. Practica la meditación.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Se te recomienda trabajar en tener un equilibrio entre tu mente y tu espíritu. Que sepas como proyectar tus ideas a largo plazo, que fortalezcas tu voluntad, concentración y resistencia física para lograr tus objetivos. Que trabajes tu sensibilidad y confíes en los demás. Hay que desarrollar tu don de mando y liderazgo.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Se te recomienda trabajar para aprender a compartir, a dar servicio a los demás, que se materialicen tus ideas y proyectos para que la ayuda planeada a los demás realmente les llegue.",
+          "color":""
+       },
       ]
     },
     {
@@ -1315,51 +1315,51 @@ export const numbers =
       numberType: "Oportunidades para mejorar tu trato hacia los demás",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Se te recomienda tener iniciativa, dejar a un lado la introversión y la pereza. Trabaja en expresar tus emociones, no las refrenes. Muestrate decidido y seguro, como una persona que tiene aspiraciones y quiere dar vida a sus proyectos.",
-          color: ""
-      },
-      {
-          id: "2",
-          content: "Se te recomienda evitar ser chantajista, o demasiado servicial sólo por el hecho de conseguir algo o por no perder amistades. Atrévete a concretar y deja de soñar demasiado. Debes saber que tienes la fuerza para estar solo y no depender emocionalmente de alguien más.",
-          color: ""
-      },
-      {
-          id: "3",
-          content: "Se te recomienda trabajar en tu arreglo personal. Evita la envidia, la mentira y la negatividad. Deja a lado cualquier sentimiento de culpa o inferioridad. Admira las artes y trata de aprender alguna actividad artística ya que el ver las cosas sólo del lado material te llega a convertir en una persona superficial.",
-          color: ""
-      },
-      {
-          id: "4",
-          content: "Se te recomienda trabajar en permitir que tus emociones fluyan, dejando de lado la rigidez y la timidez que utilizas como escudo par no equivocarte o ser lastimado. Trata de ser más flexible permite que las personas te conozcan un poco más. Cuida de tu aspecto físico. Si te equivocas vuelve a intentarlo no caigas en la tristeza o en el autocastigo.",
-          color: ""
-      },
-      {
-          id: "5",
-          content: "Se te recomienda trabajar en ser comprometido y responsable. Evita caer en reacciones compulsivas. Trabaja en poder comunicar lo que piensas y sientes a los demás. Acepta los cambios que se te presenten, no los puedes evitar son parte de tu vida.",
-          color: ""
-      },
-      {
-          id: "6",
-          content: "Se te recomienda dejar de sentirte inconforme con todo lo que te rodea o pasa. Confía en tu intuición. Acepta las responsabilidades que te toquen. Evita escaparte de la realidad. Deja de lado el ser posesivo.",
-          color: ""
-      },
-      {
-          id: "7",
-          content: "Se te recomienda evitar el aislamiento ya que puede provocar que te deprimas. Tener más confianza en ti mismo y aprender a expresarte sin ser agresivo, acepta las críticas. Sé ordenado y no disperses tu energía.",
-          color: ""
-      },
-      {
-          id: "8",
-          content: "Se te recomienda trabajar en tu autoestima. Evita dormir demasiado y deja de lado la apatía y la pasividad. Pon atención para no caer en vicios y ordena tu recámara, tu casa, tu oficina o el ambiente en donde te desenvuelvas.",
-          color: ""
-      },
-      {
-          id: "9",
-          content: "Se te recomienda evitar ser superficial. Termina todo lo que empieces. Evita ser aprehensivo y deja de lado el pasado. Sal de tu zona de confort y cristaliza tus proyectos. ",
-          color: ""
-      }
+        { 
+          "id":"1",
+          "content":"Se te recomienda tener iniciativa, dejar a un lado la introversión y la pereza. Trabaja en expresar tus emociones, no las frenes. Muestrate decidido y seguro, como una persona que tiene aspiraciones y quiere dar vida a sus proyectos.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Se te recomienda evitar ser chantajista, o demasiado servicial sólo por el hecho de conseguir algo o por no perder amistades. Atrévete a concretar y deja de soñar demasiado. Debes saber que tienes la fuerza para estar solo y no depender emocionalmente de alguien más.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Se te recomienda trabajar en tu arreglo personal. Evita la envidia, la mentira y la negatividad. Deja a lado cualquier sentimiento de culpa o inferioridad. Admira las artes y trata de aprender alguna actividad artística ya que el ver las cosas sólo del lado material te llega a convertir en una persona superficial.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Se te recomienda trabajar en permitir que tus emociones fluyan, dejando de lado la rigidez y la timidez que utilizas como escudo para no equivocarte o ser lastimado. Trata de ser más flexible permite que las personas te conozcan un poco más. Cuida de tu aspecto físico. Si te equivocas vuelve a intentarlo no caigas en la tristeza o en el autocastigo.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Se te recomienda trabajar en ser comprometido y responsable. Evita caer en reacciones compulsivas. Trabaja en poder comunicar lo que piensas y sientes a los demás. Acepta los cambios que se te presenten, no los puedes evitar son parte de tu vida.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Se te recomienda dejar de sentirte inconforme con todo lo que te rodea o pasa. Confía en tu intuición. Acepta las responsabilidades que te toquen. Evita escaparte de la realidad. Deja de lado el ser posesivo.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Se te recomienda evitar el aislamiento ya que puede provocar que te deprimas. Tener más confianza en ti mismo y aprender a expresarte sin ser agresivo, acepta las críticas. Sé ordenado y no disperses tu energía.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Se te recomienda trabajar en tu autoestima. Evita dormir demasiado y deja de lado la apatía y la pasividad. Pon atención para no caer en vicios y ordena tu recámara, tu casa, tu oficina o el ambiente en donde te desenvuelvas.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Se te recomienda evitar ser superficial. Termina todo lo que empieces. Evita ser aprehensivo y deja de lado el pasado. Sal de tu zona de confort y cristaliza tus proyectos. ",
+          "color":""
+       }
       ]
     },
     {
@@ -1473,124 +1473,116 @@ export const numbers =
     },
     {
       id: "26",
-      // ! REVISAR
       numberType: "Lección por aprender",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Se tiene tendencia a ser intolerante e inflexible. Puedes llegar a ser desconsiderado con las demás personas mostrándote orgulloso y obstinado. Lo único importante es ganar y tener, te vuelve materialista. Se debe trabajar en la humildad.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Se tiene tendencia a sentir culpa y resentimiento. Puedes llegar a menospreciar a las personas de tu alrededor y también llegar a manipularlas para conseguir tus objetivos. Mucha sensibilidad.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Se tiene tendencia a ser mentiroso y egocéntrico ya que para lograr el éxito serás capaz de cualquier cosa. Sientes placer al lucirte frente a los demás para lograr su reconocimiento o su aplauso. Para llamar la atención puedes llegar a la exageración y sobrevaloras tus sentimientos. Llegas a ser soberbio y puedes mantener amistades superfluas.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Se tiene tendencia a la manía por los detalles, a ser prisionero del trabajo, caer en la inflexibilidad y ser estricto. Sueles dar mucho a los demás y nada a ti mismo. Caes en la rutina fácilmente siendo difícil que aceptes un cambio por tu rigidez. Llegas a ser intolerante, egocéntrico y muy susceptible. Puedes demostrar envidia hacia aquellas personas con una inteligencia emocional más desarrollada que la tuya. Tacañería.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Se tiene tendencia a ser esclavo de los placeres mundanos, se llega a ser soberbio, impulsivo y con falta de tacto. Buscas acumular conocimiento sin compartirlo sólo por el hecho de demostrar que sabes más que los demás y eso te hace sentir orgulloso. Si sientes que los demás no están a tu altura en conocimientos te aislas o llegas a ser hostil con tus ideas. Puedes caer en vicios. Se pone constantemente en peligro la vida.",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Se tiene la tendencia a ser intolerante, ya no te acercas a tu fe y puedes llegar a atacar los caminos espirituales. Tiendes a ser exagerado, ves el lado negativo de lo que los demás hacen \"todo lo hacen mal\". Sueles llegar a ser frío o insensible, demasiado intelectual y soberbio. Estás inconforme con todo. Sobreprotección, invasión.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Se tiene la tendencia a ser dominante, comportándote de una manera tirana contigo mismo y con los demás. Te aislas, huyes de las multitudes, eres poco sociable. No delegas por la desconfianza que tienes en las capacidades de los demás. Tu orgullo no te permite perdonar ni escuhar. Te diriges con desconfianza. Tu parte espiritual, tu interior lo has dejado de lado y te enfocas sólo en lo material. Llegas a comportarte de manera agresiva.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Se tiene la tendencia a tener una ambición desmedida, apreciando demasiado el dinero, con sed de poder y llegando a ser tirano. Puedes caer en vicios, ser mal pensado, intolerante, egoísta y dramático. Tiendes a la soledad y a ser dependiente del amor de alguien.",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Se tiene la tendencia a ser terco, obstinado, egoìsta. No sabes recibir ayuda ni ayudar. Sueles hablar por hablar mostrándote tajante e insensible. Puedes llegar a ser agresivo.",
-          color: ""
-        },
-        {
-          id: "0",
-          content: "En tu caso, gracias a tu nombre no existe una sobreactivación. Haces uso de tus cualidades de manera equilibrada, sin caer en exageraciones o abusos que puedan colocarte en situaciones complicadas.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Sueles actuar de manera apática ante la vida. Sin la iniciativa para emprender tus proyectos. Con miedo e inseguridad en la toma de desición, llegando a ser una persona dependiente o que se deja dirijir fácilmente por los demás. Por lo que se debe trabajar en la autoconfianza, en ser independiente, tomar desiciones de manera segura ya que sólo tu sabes lo que es mejor para ti.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Sueles depender de manera excesiva de tu pareja o de cualquier otra persona. Hay que evitar el ponerse en la posición de mártir o ser demasiado servicial para lograr los objetivos. Hay que aprender que se puede estar sólo con uno mismo para no depender de alguien más, eres uno y no te debes a otro. Elegir bien las amistades. Concretar los sueños y decir lo que se piensa sin temor a perder amistades. Trabajar la tolerancia y fluir emocionalmente. No caer en la hipersensibilidad. Hace referencia a la relación con tu madre y a la elección de pareja. Problemas con la pareja o las asociaciones. Si eres mujer nos habla de negación de tu identidad femenina. ",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Trabajar en la comunicación, en expresar tu creatividad. Se te recomienda tener consciencia de la imagen que proyectas. Sé precavido para no caer en una tendencia al descuido y a reducir tu número de amistades. Evitar caer en la superficialidad y materialismo, gastando más de la capacidad financiera que tienes.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Hay que aprender a fluir emocionalmente, sabiendo expresar los que pensamos y sentimos. Aleja de ti el miedo a equivocarte, no permitas que esto te paralice o defina la matarialización de tus ideas o sueños, si te equivocas aprende la lección y vuelve a intentarlo. Acepta que en la vida el cambio es una constante, sé flexible. Evita descuidar tu apariencia física, ser soñador en exceso o caer en la indecisión y autocastigo.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Hay que aprender que el compromiso no es una prisión o algo que limite tu libertad. Evita caer en excesos y en el libertinaje. Comunica lo que sientes y quieres. Enfoca tu atención para el logro de tus metas. Viaja y conoce nuevos lugares y personas. Se recomienda darte tiempo para descansar la mente y el cuerpo.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"La lección es confiar en tu intuición sin esperar que de manera divina se te resuleva todo, hay que tomar acción, decidir y cerrar ciclos, de lo contrario se te pueden presentar cambios bruscos de vida. Trabaja en responsabilizarte de lo que te toca hacer. Evita caer en el extremo de racionalizar todo por tener escasa fe. Deja de lado el ser posesivo y estar inconforme por todo.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Trabajar en ser reflexivo y no caer en actos impulsivos. Se te recomienda meditar para lograr esa conexión entre tu mente y tu alma. Aprender a no racionalizar todo lo que te sucede, cambia el proceso de la razón por el de la comprensión para ser más tolerante. Confía en los demás y en su capacidad para realizar las cosas, esto te permitirá delegar responsabilidades en tu trabajo o vida diaria para que no te satures y te sientas presionado. Cuando decidas tener un tiempo a solas, que sea para recargar energías y no para aislarte, ya que pudieras caer en depresión.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Trabajar para encontrar el equilibrio interior, esto lo puedes lograr a través de la meditación o el ejercicio. Evita tener o realizar juicios severos. Fortalece la confianza en ti mismo. Tus ideas y proyectos los puedes materalizar. Cuando te enfoques en lograr una meta recuerda que debes darte tiempo para descansar, ya que tu resistencia física y tu voluntad te hacen trabajar sin descanso pudiendo llegar a un agotamiento físico y mental. Es esencial que su espíritu y materia estén nivelados.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"La lección a aprender es tener una visión global de las cosas, ya que, las expectativas depositadas en ti son altas y no puedes permitirte tener una visión limitada. Requieres fortalecer tu altruismo, el cual será recompensado por la vida siempre y cuando sea desinteresado al 100%. Hay que trabajar en los sentimientos de posesión, celos o volubilidad. Comparte tu conocimiento y experiencia.",
+          "color":""
+       },
+       { 
+          "id":"0",
+          "content":"Gracias a tu nombre las lecciones que te tocaban aprender o trabajar ya están completadas. Continúa haciendo uso de tus cualidades de manera positiva y en beneficio de los que te rodean.",
+          "color":""
+       },
       ]
     },
-
-
-
-
-
-
-
     {
       id: "27",
       numberType: "Energías activadas",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Fuego, que representa fuerza, impulso, acción, voluntad, fé. Aflora el enojo, da la fuerza para sacar ideas para el mundo, es la fé en uno mismo. Es la pasión y el cmenzar y terminar lo que se plantea. Simboliza el liderazgo, la transformación, el dinamismo, la acción, la velocidad.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Agua, representa que las emociones fluyen de manera suave. Existe perseverancia, sensibilidad, emoción, imaginación e intuición.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Tierra, representa la seguridad, solidez, bienestar material, estabilidad, trabajo, concreción, fortaleza, posesión. Nos habla de una persona práctica, responsable, trabajadora, que saben aterrizar las ideas. Relacionado con la materia, todo lo multiplica y recoge los frutos.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Tierra, representa la seguridad, solidez, bienestar material, estabilidad, trabajo, concreción, fortaleza, posesión. Nos habla de una persona práctica, responsable, trabajadora, que saben aterrizar las ideas. Relacionado con el trabajo manual, el esfuerzo, ser práctico, trabajar la tierra y el compromiso.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Aire, representa la libertad, el cambio. Se tiene imaginación, se es creativo mentalmente. Facilidad en la comunicación. Se adapta fácilmente a los cambios. Nos habla de que se tiene que descansar, darse un respiro. ",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Agua, representa a tus emociones fluyendo de manera pasional, existe intuición, sensibilidad, imaginación y adaptabilidad.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Agua, representa sentir, pensar y amar con todo. Intuitivo. Adaptable. Sensible e imaginativo.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Aire / Tierra, que representa que las ideas que tienes las aterrizas, eres responsable, trabajador y honesto. Así mismo, la creatividad, la imaginación y llevar a cabo tus ideas. Nos habla de darse tiempo para descansar.",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Fuego, representa fuerza, impulso, acción, voluntad y fé en el universo. Si existiera un exceso de este elemento se podría tener un carácter explosivo, reaccionando con ira, de manera impulsiva y agresiva.",
-          color: ""
-        },
-        {
-          id: "0",
-          content: "Elemento primordial, espiritú, representa la semilla de todo en el universo, la fuente, genera, da movimiento y comunica. Ayuda a que las cualidades de los demás elementos que tienes se hagan más presentes en tu vida cotidiana.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Fuego, que representa fuerza, impulso, acción, voluntad, fé. Aflora el enojo, da la fuerza para sacar ideas para el mundo, es la fé en uno mismo. Es la pasión y el comenzar y terminar lo que se plantea. Simboliza el liderazgo, la transformación, el dinamismo, la acción, la velocidad.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Agua, representa que las emociones fluyen de manera suave. Existe perseverancia, sensibilidad, emoción, imaginación e intuición. Timidez, sensibilidad.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Tierra, representa la seguridad, solidez, bienestar material, estabilidad, trabajo, concreción, fortaleza, posesión. Nos habla de una persona práctica, responsable, trabajadora, que saben aterrizar las ideas. Relacionado con la materia, todo lo multiplica y recoge los frutos.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Tierra, representa la seguridad, solidez, bienestar material, estabilidad, trabajo, concreción, fortaleza, posesión. Nos habla de una persona práctica, responsable, trabajadora, que saben aterrizar las ideas. Relacionado con el trabajo manual, el esfuerzo, ser práctico, trabajar la tierra y el compromiso.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Aire, representa la libertad, el cambio. Se tiene imaginación, se es creativo mentalmente. Facilidad en la comunicación. Se adapta fácilmente a los cambios. Nos habla de que se tiene que descansar, darse un respiro. ",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Agua, representa a tus emociones fluyendo de manera pasional, existe intuición, sensibilidad, imaginación y adaptabilidad. Las emociones pueden desbordarse.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Agua, representa sentir, pensar y amar con todo. Intuitivo. Adaptable. Sensible e imaginativo. Se guarda sus sentimientos.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Aire / Tierra, que representa que las ideas que tienes las aterrizas, eres responsable, trabajador y honesto. Así mismo, la creatividad, la imaginación y llevar a cabo tus ideas. Nos habla de darse tiempo para descansar.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Fuego, representa fuerza, impulso, acción, voluntad y fé en el universo. Si existiera un exceso de este elemento se podría tener un carácter explosivo, reaccionando con ira, de manera impulsiva y agresiva.",
+          "color":""
+       },
+       { 
+          "id":"0",
+          "content":"Elemento primordial, espiritú, representa la semilla de todo en el universo, la fuente, genera, da movimiento y comunica. Ayuda a que las cualidades de los demás elementos que tienes se hagan más presentes en tu vida cotidiana.",
+          "color":""
+       }
       ]
     },
     {
@@ -1598,51 +1590,56 @@ export const numbers =
       numberType: "Energias por activar",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "El carecer del elemento fuego, simboliza que es fácil caer en la apatía, miedo o inactividad para realizar nuestros proyectos, hace falta la fuerza y determinación para realizarlos. Para activar este elemento se recomienda prender de manera segura velas, cocinar, tomar el sol, usar joyería de obsidiana.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Si se carece de este elemento agua, cuesta trabajo conectarse con las emociones. Para activar este elemento se recomienda nadar, tomar agua, mojarse en la lluvia, escuchar agua correr, tener una fuente, tomar agua.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Si se carece de este elemento tierra, cuesta trabajo aterrizar las ideas. Para activar este elemento se recomienda sembrar, utilizaro cuarzos, cuidar plantas, caminar descalzos, abrazar a un árbol. ",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Si se carece de este elemento tierra, cuesta materializar las ideas y tener una estructura material. Para activar este elemento se recomienda sembrar, utilizaro cuarzos, cuidar plantas, caminar descalzos, abrazar a un árbol. ",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Si se carece de este elemento aire, cuesta trabajo mantener la atención en algo específico, existe dispersión de ideas, energías y esfuerzos. Se llega a ser volátil en las decisiones. Cuesta trabajo aterrizar y llevar a cabo las ideas. Para activar este elemento se recomienda respirar de manera consciente, caminar, andar en bicicleta, hacer actividades al aire libre, abrir ventanas.",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "El carecer de este elemento agua, hace que te comportes de manera contenida llegando en un momento a explotar o hacer berriche porque las cosas no salieron como pensabas. Para activar este elemento se recomienda nadar, bucear, mojarse en la lluvia, escuchar agua correr, tener una fuente, tomar agua.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "El carecer de este elemento agua, simboliza que te cuesta trabajo perdonar, todo te lo tomas personal, sintiéndote agredido. Eres muy sensible y sientes profundamente pero no sabes como expresarlo, por lo que tus emociones no fluyen y pueden derivar en amargura. Para activar este elemento se recomienda nadar, bucear, mojarse en la lluvia, escuchar agua correr, tener una fuente, tomar agua.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Si se carece de este elemento tierra, cuesta materializar las ideas y tener una estructura material. Para activar el elemento tierra se recomienda sembrar, utilizar cuarzos, cuidar plantas, caminar descalzos, abrazar a un árbol. Para activar el elemento aire se recomienda respirar de manera consciente, caminar, andar en bicicleta, hacer actividades al aire libre, abrir ventanas.\r\nSi se carece de este elemento aire, cuesta trabajo mantener la atención en algo específico, existe dispersión de ideas, energías y esfuerzos. Se llega a ser volátil en las decisiones. Cuesta trabajo aterrizar y llevar a cabo las ideas. Para activar este elemento se recomienda respirar de manera consciente, caminar, andar en bicicleta, hacer actividades al aire libre, abrir ventanas.",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "La carencia de este elemento fuego, simboliza falta de energía, impetú, fé. Para activar este elemento se recomienda prender de manera segura velas, cocinar, tomar el sol, usar joyería de obsidiana.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"El carecer del elemento fuego, simboliza que es fácil caer en la apatía, miedo o inactividad para realizar nuestros proyectos, hace falta la fuerza y determinación para realizarlos. Para activar este elemento se recomienda prender de manera segura velas, cocinar, tomar el sol, usar joyería de obsidiana.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Si se carece de este elemento agua, cuesta trabajo conectarse con las emociones. Para activar este elemento se recomienda nadar, tomar agua, mojarse en la lluvia, escuchar agua correr, tener una fuente, tomar agua.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Si se carece de este elemento tierra, cuesta trabajo aterrizar las ideas. Para activar este elemento se recomienda sembrar, utilizar cuarzos, cuidar plantas, caminar descalzos, abrazar a un árbol. ",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Si se carece de este elemento tierra, cuesta materializar las ideas y tener una estructura material. Para activar este elemento se recomienda sembrar, utilizaro cuarzos, cuidar plantas, caminar descalzos, abrazar a un árbol. ",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Si se carece de este elemento aire, cuesta trabajo mantener la atención en algo específico, existe dispersión de ideas, energías y esfuerzos. Se llega a ser volátil en las decisiones. Cuesta trabajo aterrizar y llevar a cabo las ideas. Para activar este elemento se recomienda respirar de manera consciente, caminar, andar en bicicleta, hacer actividades al aire libre, abrir ventanas.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"El carecer de este elemento agua, hace que te comportes de manera contenida llegando en un momento a explotar o hacer berriche porque las cosas no salieron como pensabas. Para activar este elemento se recomienda nadar, bucear, mojarse en la lluvia, escuchar agua correr, tener una fuente, tomar agua.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"El carecer de este elemento agua, simboliza que te cuesta trabajo perdonar, todo te lo tomas personal, sintiéndote agredido. Eres muy sensible y sientes profundamente pero no sabes como expresarlo, por lo que tus emociones no fluyen y pueden derivar en amargura. Para activar este elemento se recomienda nadar, bucear, mojarse en la lluvia, escuchar agua correr, tener una fuente, tomar agua.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Si se carece de este elemento tierra, cuesta materializar las ideas y tener una estructura material. Para activar el elemento tierra se recomienda sembrar, utilizar cuarzos, cuidar plantas, caminar descalzos, abrazar a un árbol.Si se carece de este elemento aire, cuesta trabajo mantener la atención en algo específico, existe dispersión de ideas, energías y esfuerzos. Se llega a ser volátil en las decisiones. Cuesta trabajo aterrizar y llevar a cabo las ideas. Para activar este elemento se recomienda respirar de manera consciente, caminar, andar en bicicleta, hacer actividades al aire libre, abrir ventanas.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"La carencia de este elemento fuego, simboliza falta de energía, impetú, fé. Para activar este elemento se recomienda prender de manera segura velas, cocinar, tomar el sol, usar joyería de obsidiana.",
+          "color":""
+       },
+       { 
+          "id":"0",
+          "content":"Elemento primordial, espiritú, representa la semilla de todo en el universo, la fuente, genera, da movimiento y comunica. Ayuda a que las cualidades de los demás elementos que tienes se hagan más presentes en tu vida cotidiana.",
+          "color":""
+       }
       ]
     },
     {
@@ -1650,51 +1647,51 @@ export const numbers =
       numberType: "Lo no trabajado en vidas pasadas",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Probablemente no pudiste o no quisiste ser independiente, se tuvo miedo a decidir, viviste con miedo o apatía, no logrando poner en marcha tus proyectos por falta de iniciativa.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Probablemente no pudiste o no quisiste escuchar a los demás, te faltó empatía, no lograste mantener una pareja o asociación por falta de paciencia, cooperación y sensibilidad. Quizá fuiste demasido dependiente, sin lograr entender que puedes estar contigo mismo y que no te debes al otro. Pudo haber existido problemas en la relación que tenías con tu madre.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Probablemente no pudiste o no quisiste desarrollar tus talentos artísticos, quizá se te impidió continuar con alguna actividad artística o tuviste que truncarla. Posiblemente estuviste carente de lazos amistosos y vida social. En tu vida eras infeliz.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Probablemente no pudiste o no quisiste trabajar para lograr una estructura material. No lograste organizarte y los planes que tenìas en mente se quedaron ahí sin que los pudieras volver realidad. Existió holgazanería de tu parte y descuido de tu apariencia. Nos habla que no dejaste fluir tus emociones por temor a equivocarte, lo cuál hizo que te mostrarás rígido.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Probablemente no pudiste o no quisiste trabajar en los desapegos emocionales, te resististe a los cambios. Tuviste problemas en la comunicación con los demás. Es posible que hayas estado encerrado privado de tu libertad. Tienes pendiente disfrutar la vida con tus cinco sentidos. No quisiste comprometerte sintiendo que esto te cortaba tu libertad. Pudiste haber vivido con excesos, inclusive haber caído en vicios.",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Probablemente no pudiste o no quisiste tener una familia o responsabilizarte de ella. Dejaste pendiente el cierre de ciclos por no tomar la resposabilidad de la elección, por no decidir y dejarle a otros esa tarea. Puede ser que no hayas tenido confianza en tu intuición y que no se te haya permitido acercarte a tu fe, a tu espiritualidad.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Probablemente no pudiste trabajar la introspección, el ser reflexivo y espiritual, el sopreponerte a las dificultades. Se te complicó despertar tu empatía, conectar tu corazón con tu mente, dejar que tu interior guiará tu camino. Te escapaste de la realidad, aislándote y deprimiendote. Desconfiaste de todos y todo.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Probablemente no pudiste lograr el equilibrio entre la parte material y la espiritual. No hiciste uso de los dones que tenías como eran el don de mando que fomentaba tu parte de liderazgo ni tu don de sanar que te pudo haber ayudado a lograr ese equilibrio entre mente y espíritu. Te falto valentía, tenacidad, voluntad, fuerza interior y resistencia física para lograr tus proyectos a largo plazo. Fuiste desordenado y desconfiado por lo que tus anhelos de triunfar se vieron opacados.",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Probablemente no pudiste trabajar en ayudar a los demás, fuiste impaciente y poco compasivo. El conocimiento que tenías y seguías adquiriendo no lograste compartirlo. Proyectos que lograste empezar no los terminaste. Vivías en el pasado. Te dio miedo salir de tu zona de confort.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Probablemente no pudiste o no quisiste ser independiente, se tuvo miedo a decidir, viviste con miedo o apatía, no logrando poner en marcha tus proyectos por falta de iniciativa.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Probablemente no pudiste o no quisiste escuchar a los demás, te faltó empatía, no lograste mantener una pareja o asociación por falta de paciencia, cooperación y sensibilidad. Quizá fuiste demasido dependiente, sin lograr entender que puedes estar contigo mismo y que no te debes al otro. Pudieron haber existido problemas en la relación que tenías con tu madre. Impedimentos para aceptar o desarrollar tu lado sensible, femenino.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Probablemente no pudiste o no quisiste desarrollar tus talentos artísticos, quizá se te impidió continuar con alguna actividad artística o tuviste que truncarla. Posiblemente estuviste carente de lazos amistosos y vida social. En tu vida eras infeliz.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Probablemente no pudiste o no quisiste trabajar para lograr una estructura material. No lograste organizarte y los planes que tenìas en mente se quedaron ahí sin que los pudieras hacer realidad. Existió holgazanería de tu parte y descuido de tu apariencia. Nos habla que no dejaste fluir tus emociones por temor a equivocarte, lo cuál hizo que te mostrarás rígido.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Probablemente no pudiste o no quisiste trabajar en los desapegos emocionales, te resististe a los cambios. Tuviste problemas en la comunicación con los demás. Es posible que hayas estado encerrado privado de tu libertad. Tienes pendiente disfrutar la vida con tus cinco sentidos. No quisiste comprometerte sintiendo que esto te cortaba tu libertad. Pudiste haber vivido con excesos, inclusive haber caído en vicios.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Probablemente no pudiste o no quisiste tener una familia o responsabilizarte de ella. Dejaste pendiente el cierre de ciclos por no tomar la resposabilidad de la elección, por no decidir y dejarle a otros esa tarea. Puede ser que no hayas tenido confianza en tu intuición y que no se te haya permitido acercarte a tu fe, a tu espiritualidad.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Probablemente no pudiste trabajar la introspección, el ser reflexivo y espiritual, el sopreponerte a las dificultades. Se te complicó despertar tu empatía, conectar tu corazón con tu mente, dejar que tu interior guiará tu camino. Te escapaste de la realidad, aislándote y deprimiendote. Desconfiaste de todos y todo.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Probablemente no pudiste lograr el equilibrio entre la parte material y la espiritual. No hiciste uso de los dones que tenías como eran el don de mando que fomentaba tu parte de liderazgo ni tu don de sanar que te pudo haber ayudado a lograr ese equilibrio entre mente y espíritu. Te falto valentía, tenacidad, voluntad, fuerza interior y resistencia física para lograr tus proyectos a largo plazo. Fuiste desordenado y desconfiado por lo que tus anhelos de triunfar se vieron opacados.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Probablemente no pudiste trabajar en ayudar a los demás, fuiste impaciente y poco compasivo. El conocimiento que tenías y seguías adquiriendo no lograste compartirlo. Proyectos que lograste empezar no los terminaste. Vivías en el pasado. Te dio miedo salir de tu zona de confort.",
+          "color":""
+       }
       ]
     },
     {
@@ -1702,51 +1699,51 @@ export const numbers =
       numberType: "Resistencias en otra vida",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Te has resisitido a tomar decisiones, a ser una persona independiente, a tener confianza en ti mismo, has permanecido sin desarrollar tu autonomía, tu competitividad, has seguido apático y sin energía para llevar a cabo tus proyectos.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Te has resisitido a escuchar a los demás, a ser empático, a tener una pareja o asociación por falta de paciencia, cooperación y sensibilidad. Has sido demasido dependiente. Te mostraste manipulador para no perder amistades o ganarte la simpatía de los demás. La figura materna pudo haber estado ausente.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Te has resisitido a desarrollar sus talentos artísticos, te has mostrado intolerante e inadaptable, sin pasión ni energía en la tareas que te toco realizar. Te negaste a ser feliz.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Te has resisitido a trabajar y ser constante para poder tener una estructura material. No quisiste hacer realidad tus ideas, las dejaste en tu mente. Dejaste de lado transmitir tu sentir a los demás, todo lo analizabas y no lograbas conectar tu mente con tu corazón, por lo que no fluías emocionalmente.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Te has resisitido a aceptar los cambios, no quisiste adaptarte a los cambios. Se te pudo haber estado privado de tu libertad, estando encerrado en una prisión o en un monasterio u hospital.  La coumunicación no la fomentaste. Caíste esclavo de los placeres mundanos, llegando a tener excesos que no queriendo corregir derivaron en posibles vicios. Para no sentir limitada tu libertad no quisiste comprometerte por lo que caíste en irresponsabilidades. Te negaste a dar descanso a su cuerpo. Actuaste de manera impulsiva.",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Te has resisitido a cerrar ciclos. No tomaste decisiones y has dejaste que los demás eligieran por ti. Hubo irresponsabilidad de tu parte con tu familia. No confiaste en tu intuición.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Te ha resisitido a perdonar, a tolerar el error ajeno, a delegar y confiar en la capacidad de respuesta de los demás. No has querido ser reflexivo ni crecer espiritualmente.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Te has resisitido para reconocer que tanto lo material como lo espiritual son importantes y se debe guardar un equilibrio entre ellos. No te concentraste ni utilizaste tu voluntad y fuerza interor para lograr tus objetivos. Te dejaste dirigir por los demás y no te administraste. No le diste descanso a tu cuerpo. Viviste con el temor de la pobreza o la escasez y es probable que es lo que se ha tenido en esta vida.",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Te has resisitido a ser tolerante y compasivo. No has querido desarrollar tu don de servicio y has sido egoísta. No has aprendido a dar y recibir.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Te has resisitido a tomar decisiones, a ser una persona independiente, a tener confianza en ti mismo, has permanecido sin desarrollar tu autonomía, tu competitividad, has seguido apático y sin energía para llevar a cabo tus proyectos.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Te has resisitido a escuchar a los demás, a ser empático, a tener una pareja o asociación por falta de paciencia, cooperación y sensibilidad. Has sido demasido dependiente. Te mostraste manipulador para no perder amistades o ganarte la simpatía de los demás. La figura materna pudo haber estado ausente.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Te has resisitido a desarrollar sus talentos artísticos, te has mostrado intolerante e inadaptable, sin pasión ni energía en la tareas que te toco realizar. Te negaste a ser feliz.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Te has resisitido a trabajar y ser constante para poder tener una estructura material. No quisiste hacer realidad tus ideas, las dejaste en tu mente. Dejaste de lado transmitir tu sentir a los demás, todo lo analizabas y no lograbas conectar tu mente con tu corazón, por lo que no fluías emocionalmente.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Te has resisitido a aceptar los cambios, no quisiste adaptarte a ellos. Se te pudo haber privado de tu libertad, estando encerrado en una prisión, en un monasterio u hospital. La coumunicación no la fomentaste. Caíste esclavo de los placeres mundanos, llegando a tener excesos y que derivaron en posibles vicios. Para no sentir limitada tu libertad no quisiste comprometerte por lo que caíste en irresponsabilidades. Te negaste a dar descanso a tu cuerpo. Actuaste de manera impulsiva.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Te has resisitido a cerrar ciclos. No tomaste decisiones y dejaste que los demás eligieran por ti. Hubo irresponsabilidad de tu parte con tu familia. No confiaste en tu intuición.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Te ha resisitido a perdonar, a tolerar el error ajeno, a delegar y confiar en la capacidad de respuesta de los demás. No has querido ser reflexivo ni crecer espiritualmente.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Te has resisitido para reconocer que tanto lo material como lo espiritual son importantes y se debe guardar un equilibrio entre ellos. No te concentraste ni utilizaste tu voluntad y fuerza interor para lograr tus objetivos. Te dejaste dirigir por los demás y no te administraste. No le diste descanso a tu cuerpo. Viviste con el temor de la pobreza o la escasez y es probable que esto se esté presentando en esta vida.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Te has resisitido a ser tolerante y compasivo. No has querido desarrollar tu don de servicio y has sido egoísta. No has aprendido a dar y recibir.",
+          "color":""
+       }
       ]
     },
     {
@@ -1754,51 +1751,51 @@ export const numbers =
       numberType: "Promesa de Vida",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Tu promesa de vida es ser independiente, con poder de decisión, con fuerza e iniciativa para llevar a cabo sus proyectos. Contar con energía y seguridad para saber que sólo tú sabes decidir lo que es mejor para ti. Tener autonomía y disciplina. Empezar las cosas, dirigir.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Tu promesa de vida es tener una pareja, ser empático, tener paciencia y ser tolentante. Cooperar y ser exitoso en las asociaciones. Colaborar en que las personas que amas alcancen su éxito.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Tu promesa de vida es ser felíz y disfrutar de los placeres de la vida, en compañía de tus amigos y en ambientes armoniosos. Siendo tolerante y adaptable a lo que se te presente. Pasar tiempo con los amigos y que la gente negativa no te afecte. Desarrollar tu actividad artística preferida.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Tu promesa de vida es tener una estructura material, tener trabajo, planear y concretar tus ideas. Que tus emociones fluyan y las puedas expresar.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Tu promesa de vida es ser libre, disfrutar de la vida con tus cinco sentidos, aprender a comprometerte sin sentir que te esclavizas. Comunicarte con los demás. Viajar. Dejar a un lado los apegos emocionales y adaptarte a los cambios que se presenten.",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Tu promesa de vida es tener una familia. Tomar decisiones que te ayuden a cerrar ciclos. Confiar en tu intución.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Tu promesa de vida esta relacionada con conectar tu corazón con tu mente, superarte, ser ejemplo, guiar, ver resultados a tus esfuerzos. Dejar que tu interior, lo que anhelas guíe tu destino. Aceptar la realidad sin eludirla. Perdonar. Confiar en los demás.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Tu promesa de vida esta relacionada con logar el equilibrio entre lo material y lo espiritual. Hacer uso de tu don de mando proyectando ese líder que eres por excelencia. Así mismo, utilizar tu don de sanar para lograr ese equilibrio entre mente y espíritu. Demostrar que eres una persona autocontrolada, con fuerza interior, concentración y voluntad que aplicas para lograr tus objetivos. Tu sensibilidad, honestidad y honradez serán parte de tu carta de presentación. En tu vida habrá abundancia y equilibrio.",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Tu promesa de vida esta relacionada con la abundancia ya que al practicar tu don de servicio ayudas a los demás y te ayudas a ti mismo. Seguirás aprendiendo y viajando y esas experiencias las compartirás a los demás. Aprenderás a dar y recibir.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Tu promesa de vida es ser independiente, con poder de decisión, con fuerza e iniciativa para llevar a cabo sus proyectos. Contar con energía y seguridad para saber que sólo tú sabes decidir lo que es mejor para ti. Tener autonomía y disciplina. Empezar las cosas, dirigir.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Tu promesa de vida es tener una pareja, ser empático, tener paciencia y ser tolentante. Cooperar y ser exitoso en las asociaciones. Colaborar para que alcancen el éxito las personas que amas.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Tu promesa de vida es ser felíz y disfrutar de los placeres de la vida, en compañía de tus amigos y en ambientes armoniosos. Siendo tolerante y adaptable a lo que se te presente. Pasar tiempo con los amigos y que la gente negativa no te afecte. Desarrollar tu actividad artística preferida.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Tu promesa de vida es tener una estructura material, tener trabajo, planear y concretar tus ideas. Que tus emociones fluyan y las puedas expresar.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Tu promesa de vida es ser libre, disfrutar de la vida con tus cinco sentidos, aprender a comprometerte sin sentir que te esclavizas. Comunicarte con los demás. Viajar. Dejar a un lado los apegos emocionales y adaptarte a los cambios que se presenten.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Tu promesa de vida es tener una familia. Tomar decisiones que te ayuden a cerrar ciclos. Confiar en tu intución.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Tu promesa de vida esta relacionada con conectar tu corazón con tu mente, superarte, ser ejemplo, guiar, ver resultados a tus esfuerzos. Dejar que tu interior, lo que anhelas guíe tu destino. Aceptar la realidad sin eludirla. Perdonar. Confiar en los demás.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Tu promesa de vida esta relacionada con logar el equilibrio entre lo material y lo espiritual. Hacer uso de tu don de mando proyectando ese líder que eres por excelencia. Así mismo, utilizar tu don de sanar para lograr ese equilibrio entre mente y espíritu. Demostrar que eres una persona autocontrolada, con fuerza interior, concentración y voluntad que aplicas para lograr tus objetivos. Tu sensibilidad, honestidad y honradez serán parte de tu carta de presentación. En tu vida habrá abundancia y equilibrio.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Tu promesa de vida esta relacionada con la abundancia ya que al practicar tu don de servicio ayudas a los demás y te ayudas a ti mismo. Seguirás aprendiendo y viajando y esas experiencias las compartirás a los demás. Aprenderás a dar y recibir.",
+          "color":""
+       }
       ]
     },
     {
@@ -1858,104 +1855,113 @@ export const numbers =
       numberType: "Retos Menores",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Tomar desiciones, ir al frente, dirigir, tener confianza en ti mismo.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Saber que puedes estar por ti mismo sin depender de otro. Tolerancia, paciencia, comprensión, saber escuchar. Empatía. Encontrar a tu pareja afín.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Desarrollar tus talentos artísticos. Adaptarte a las circunstancias que te presente la vida de manera optimista y despreocupada. Disfrutar de los placeres de la vida. Ser feliz.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Tener estructura material. Fluir emocionalmente.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Ser libre. Disfrutar la vida con tus cinco sentidos. Comunicar lo que piensas y sientes. ",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Amar sin exigir tanta perfección. Cerrar ciclos. Tener familia.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Crecer espiritualmente. Perdonar. Delegar. Dirigir.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Equilibrio entre los material y lo espiritual. Abundancia. Ser administrado.",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Servir. Ayudar a los demás. Dar y recibir.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Fortalecer la voluntad, fuerza de carácter y valor. Fomentar la independencia, resolver situaciones y decidir. Perder el miedo y seguir adelante con la realilzación de tus ideas.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Desarrollar la autoconfianza y menguar la sensibilidad ya que puedes caer en el chantaje para conservar la amistad o amor de otras personas. Trabajar para mantener de manera sana una pareja o una sociedad. Colaborar en tu trabajo o en tu casa para que las metas o los objetivos se cumplan. Evitar ser demasiado tolerante.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Dispersión de talento, alguna actividad relacionada con el arte se ha dejado de lado o no se ha desarrollado a pesar de ser de tu interés. No aceptas fácilmente la crítica y tiendes a aislarte cuando tu reto es integrarte socialmente. Es importante enfrentar este desafío con actividades relacionadas con el arte: escritura, baile, canto, pintura, música, etc.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Practicar la constancia, el orden, la perseverancia, aprender a planear para lograr los objetivos. Cumplir horarios, se recomienda llevar una agenda, aterrizar las ideas y no tenerlas dando vueltas en la mente.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Adoptar el compromiso y la responsabilidad que pueden traer consigo las actividades o relaciones que tienes en tu vida, evitar verlos como situaciones que limitan tu libertad. Aceptar los cambios y adaptarse a ellos. Viajar, obtén nuevos conocimientos y compartir las experiencias. Dáte tiempo de descansar.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Elije y decide. Confía en tu intuición. Acepta la responsabilidad sin sentir que es demasiado. Cuida de tu familia y seres queridos sin ser posesivo, perfeccionista o sobreprotector.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Aprende a aceptar la crítica y toma de ella lo que te ayude a mejorar. Confía en tus capacidades y en la de los demás. Aprende a delegar responsabilidades. Evita el aislamiento. Practica la meditación.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Trabaja en mantener un equilibrio entre la mente y el cuerpo. Pon orden en todo lo que haces, en tu oficina y casa, esto te ayuda a despejar tu mente y aterrizar de mejor manera tus ideas y proyectos. Dáte tiempo para descansar y disfrutar de tu familia y amigos ya que pones toda tu atención y voluntad en llegar a tus objetivos pero es importante detenerse y disfrutar de tu alrededor. Deja de lado la apatía. Aprende a administrarte, tanto en tu tiempo como en tu dinero.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Hay que trabajar en tener la disposición de servir a los demás. Ayudar en casa, en el trabajo, en tu comunidad.",
+          "color":""
+       },
+       { 
+          "id":"0",
+          "content":"Existe una dualidad, ya sea que estos retos se te hayan presentado con anterioridad y actualmente las cualidades ya las tengas integradas y en caso de que no sea así, los retos estarán potencializados y se tendrá que poner mayor atención a lo que la vida nos vaya presentando día a día e ir resolviendo para seguir adelante.",
+          "color":""
+       }
       ]
     },
     {
-      //! REVISAR CONTENIDO
       id: "34",
       numberType: "Reto Constante",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Tomar desiciones, ir al frente, dirigir, tener confianza en ti mismo.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Saber que puedes estar por ti mismo sin depender de otro. Tolerancia, paciencia, comprensión, saber escuchar. Empatía. Encontrar a tu pareja afín.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Desarrollar tus talentos artísticos. Adaptarte a las circunstancias que te presente la vida de manera optimista y despreocupada. Disfrutar de los placeres de la vida. Ser feliz.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Tener estructura material. Fluir emocionalmente.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Ser libre. Disfrutar la vida con tus cinco sentidos. Comunicar lo que piensas y sientes. ",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Amar sin exigir tanta perfección. Cerrar ciclos. Tener familia.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Crecer espiritualmente. Perdonar. Delegar. Dirigir.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Equilibrio entre los material y lo espiritual. Abundancia. Ser administrado.",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Servir. Ayudar a los demás. Dar y recibir.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Dificultades para salir adelante por sí mismo, si se tiene este desafío y no es independiente o se depende de un tercero (especialmente de la familia) para resolver situaciones y decidir, no se está asumiendo correctamente. Es importante no culpar a nadie pues lo que se viene a desarrollar es fuerza y autoafirmación ante los demás. Perder el miedo y seguir adelante con la materialización de ideas e inicios de proyectos.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Sentirás dependencia excesiva a tu pareja, amigos o familia. Hay que desarrollar la autoconfianza, y saber que puedes estar solo contigo mismo. No le temas a la soledad. Concreta tus ideas ya que todo lo dejas en sueños. Evitar volverte servicial con el próposito de conseguir algo. Evita caer en la hipocondría.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Acepta la crítica, practica el ser flexible e intégrarte socialmente. Deja a un lado los sentimiento de inferioridad. No caigas en la banalidad. Practica alguna actividad artística. Evita decir mentiras o ser tolerante de manera excesiva con el propósito de caer bien o ser amado.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Hay que desarrollar la constancia, el orden, la perseverancia, aprender a planear para lograr los objetivos. Hacerte de estructura material, es decir, comprar una casa, departamento, terreno para construir etc. algo que te proporcione esa estabilidad material que buscas. Trabajar en cumplir horarios, se recomienda llevar una agenda, usar despertador, puntualizar lo que se dice, alzar las cosas, tener ordenada y limpia su recámara o casa, tocar plantas o macetas, estar en contacto con la tierra, eso ayudaría a aterrizar las ideas y no tenerlas dando vueltas en la mente. Deja de soñar en exceso.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Responsabilizarse, enfocar tu atención y ser constante. Prueba cosas nuevas y vence el miedo al cambio. Comunica lo que piensas y sientes. Piensa las cosas antes de hacerlas o decirlas. Cuida de tu salud, dáte tiempo para descansar y aléjate de los excesos.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Hay que trabajar en tomar decisiones, realizar propuestas claras, responsabilizándose del acuerdo al que se está llegando. Comprométete a escuchar a los miembros de tu familia o amigos, sin opinar, sin prejuiciar. El tomar decisiones te ayudará a cerrar ciclos. Es importante enfrentar este desafío con actividades como: viajes con familia, hacer reuniones en su casa, ser el anfitrión, estar en casa, caminar, nadar, hacer actividades que involucren a amigos o familia.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Hay que trabajar en delegar responsabilidades. Confía en la capacidad de los demás, sé tolerante ante el error ajeno. Sé comprensivo y reflexivo. Se recomienda meditar. No es un desafío común, supone grandes pruebas de destino que se deben afrontar proponiendo, no sólo rebelándose de lo que sucede a tu alrededor. La clave para superarlo es proponer y hacer el cambio necesario. Cuidado con la melancolía, la bebida, el aislamiento y el orgullo desmedido.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Hay que trabajar para no caer en una falta de equilibrio en las metas espirituales ya que tiendes a preocuparte y ocuparte por las cuestiones materiales. Si dejas los reproches a lado se crea un buen momento para lograr el reconocimiento por el trabajo realizado. Cuidate de tener miedo a perder dinero o a la pobreza, pues este temor puede atraer que vivas este tipo de situaciones.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Evita caer en la superficialidad. Termina lo que se comienza. Evita buscar soluciones fáciles a tus problemas ya que podrías empeorarlos. Deja el miedo de lado y sal de tu zona de confort y llevar a cabo las ideas que tienes para ayudar a los demás. Hay que trabajar en tener la disposición de servir a los demás.",
+          "color":""
+       },
+       { 
+          "id":"0",
+          "content":"Existe una dualidad, ya sea que este reto se te haya presentado con anterioridad y actualmente las cualidades ya las tengas integradas y en caso de que no sea así, el reto estará potencializado y se tendrá que poner mayor atención a lo que la vida nos vaya presentando día a día e ir resolviendo para seguir adelante.",
+          "color":""
+       }
       ]
     },
     {
@@ -1963,51 +1969,56 @@ export const numbers =
       numberType: "Reto en la recta final",
       imgsrc: "assets/imgs/water.svg",
       numbers: [
-        {
-          id: "1",
-          content: "Tomar desiciones, ir al frente, dirigir, tener confianza en ti mismo.",
-          color: ""
-        },
-        {
-          id: "2",
-          content: "Saber que puedes estar por ti mismo sin depender de otro. Tolerancia, paciencia, comprensión, saber escuchar. Empatía. Encontrar a tu pareja afín.",
-          color: ""
-        },
-        {
-          id: "3",
-          content: "Desarrollar tus talentos artísticos. Adaptarte a las circunstancias que te presente la vida de manera optimista y despreocupada. Disfrutar de los placeres de la vida. Ser feliz.",
-          color: ""
-        },
-        {
-          id: "4",
-          content: "Tener estructura material. Fluir emocionalmente.",
-          color: ""
-        },
-        {
-          id: "5",
-          content: "Ser libre. Disfrutar la vida con tus cinco sentidos. Comunicar lo que piensas y sientes. ",
-          color: ""
-        },
-        {
-          id: "6",
-          content: "Amar sin exigir tanta perfección. Cerrar ciclos. Tener familia.",
-          color: ""
-        },
-        {
-          id: "7",
-          content: "Crecer espiritualmente. Perdonar. Delegar. Dirigir.",
-          color: ""
-        },
-        {
-          id: "8",
-          content: "Equilibrio entre los material y lo espiritual. Abundancia. Ser administrado.",
-          color: ""
-        },
-        {
-          id: "9",
-          content: "Servir. Ayudar a los demás. Dar y recibir.",
-          color: ""
-        }
+        { 
+          "id":"1",
+          "content":"Aprender a estar solo, a ser independiente, a iniciar esos proyectos que dejaste porque no se tenía el tiempo o porque no era el momento. Practicar la humildad y la tolerancia.",
+          "color":""
+       },
+       { 
+          "id":"2",
+          "content":"Desarrolla la autoconfianza, hay mucha susceptibilidad y dificultades con la pareja o asociaciones, derivadas de demasiada sensibilidad o falta de ésta. Te puedes tomar muy personal las cosas y vivir en sufrimiento constante debido a su percepción de las mismas. Trabaja la soledad, no le temas, ya que de lo contrario puedes mostrarte chantajista, mártir o demasiado tolerante por querer mantener una amistad o una pareja. Mantén tu relación de pareja de la forma más sana posible.",
+          "color":""
+       },
+       { 
+          "id":"3",
+          "content":"Evita el ser demasido flexible sólo para caer bein a los demás. Es el momento para desarrollar alguna actividad artística que sea de tu agrado. Escucha la crítica de los demás y utiliza lo que te sirva para mejorar. Frecuenta a tus amistades. Evita caer en el materialismo o en la superficialidad. Evita desperdiciar tu talento, tu dinero o tu tiempo. El talento debe usarse para alegría de los demás.",
+          "color":""
+       },
+       { 
+          "id":"4",
+          "content":"Identificar que el ser flexible te ayuda en tu relación con los demás. Expresar o compartir tu sentir, no guardarte las cosas, abrirte y hacer un lado el miedo a la equivocación o al rechazo. Deja de lado los sentimientos de culpa. Cuida de tu apariencia física. Practica la constancia, el orden, la perseverancia, aprender a planear para lograr los objetivos.",
+          "color":""
+       },
+       { 
+          "id":"5",
+          "content":"Aprender a descansar. Viaja, aprende nuevas cosas, acepta el cambio ya que este es lo único constante en la vida. Comunica lo que quieres y sientes. Comprométete y responsabilízate. Atrévete a realizar lo que quieres hacer.",
+          "color":""
+       },
+       { 
+          "id":"6",
+          "content":"Confía en tu intuición, ten fe, no filtres todo por la razón. Vive tu presente sin escapar de tu realidad. Acepta y disfruta lo que tienes, dejar a lado el sentimiento de inconformidad. Toma decisiones eligiendo lo que es mejor para ti ya que eso te ayudará a cerrar ciclos. Disfruta de tu familia. Evita llevar la perfeccion a tus relaciones personales.",
+          "color":""
+       },
+       { 
+          "id":"7",
+          "content":"Aprende a perdonar. Comunica de manera asertiva tu sentir, no te lo guardes, fluye. Confía en que los demás son capaces de realizar las cosas de la mejor manera posible, cómo si las hicieras tú mismo. Evita el aislamiento y el deprimirte. Cuando sientas tu mente saturada se te recomienda hacer un poco de meditación. Evita caer en vicios, como escape a la presión que puedas sentir en las situaciones que se presentan en tu vida.",
+          "color":""
+       },
+       { 
+          "id":"8",
+          "content":"Practica el hablar en público de manera elocuente. Podrías desarrollar la sanación a través de tus manos. Trata de mantenerte en equilibrio, dar la misma importancia a lo material como a lo espiritual. Administrate bien y mucho ojo a quien le confías tu dinero o bienes ya que puedes ser susceptible de un fraude o pérdida material.",
+          "color":""
+       },
+       { 
+          "id":"9",
+          "content":"Deja el pasado atrás. Evita ser aprehensivo, no todo es complicado o difícil. Cristaliza tus ideas y proyectos, tienes la fuerza para hacerlo y tanto tú como los demás se beneficiarán de la culminación de tus ideas. Se debe tener la disposición de servir a los demás. Lo que aprendas compartelo con los demás. Ayuda en casa, en el trabajo, en tu comunidad.",
+          "color":""
+       },
+       { 
+          "id":"0",
+          "content":"Existe una dualidad, ya sea que este reto se te haya presentado con anterioridad y actualmente las cualidades ya las tengas integradas y en caso de que no sea así, el reto estará potencializado y se tendrá que poner mayor atención a lo que la vida nos vaya presentando día a día e ir resolviendo para seguir adelante.",
+          "color":""
+       }
       ]
     },
     {
