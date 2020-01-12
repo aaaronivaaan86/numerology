@@ -38,11 +38,10 @@
   </ion-row>
   <ion-row>
     <ion-col size="12">
-      <ion-datetime placeholder="  * Fecha de nacimiento" displayFormat="MM/DD/YYYY" [(ngModel)]="newUser.userBirth">
+      <ion-datetime placeholder="  * Fecha de nacimiento" displayFormat="MM/DD/YYYY" min="1300-01-11"  [(ngModel)]="newUser.userBirth">
       </ion-datetime>
     </ion-col>
   </ion-row>
-
 
 <ion-row *ngIf="showErrorMsg">
   <ion-col size="12" text-center>

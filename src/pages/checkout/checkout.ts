@@ -2,12 +2,14 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams, Platform } from 'ionic-angular';
 import { HTTP } from '@ionic-native/http';
 import { Stripe } from '@ionic-native/stripe';
+import { Storage } from '@ionic/storage';
 
 import { File } from '@ionic-native/file';
 import { FileOpener } from '@ionic-native/file-opener';
 
 import * as pdfmake from 'pdfmake/build/pdfmake';
 import * as pdfFonts from 'pdfmake/build/vfs_fonts';
+import { NumberView } from '../../shared/models/number-view';
 /**
  * Generated class for the CheckoutPage page.
  *
@@ -27,20 +29,30 @@ export class CheckoutPage {
   cardMonth: number;
   cardYear: number;
   cardCVV: string;
+  userName: string;
   
   private serviceDescription = 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus dignissimos autem iure, ullam fugiat optio voluptatibus, facere inventore quidem tenetur cumque a tempora? Iusto, pariatur! Atque assumenda necessitatibus quia incidunt?';
   private pdfObj = null;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public http: HTTP, public stripe: Stripe, private plt: Platform, private file: File, private fileOpener: FileOpener) {
+  constructor(public navCtrl: NavController,
+              public navParams: NavParams,
+              public http: HTTP,
+              public stripe: Stripe,
+              private storage: Storage,
+              private plt: Platform,
+              private file: File,
+              private fileOpener: FileOpener) {
     this.totalAmount = this.navParams.get('total');
-    console.log(this.totalAmount);
+    // console.log(this.totalAmount);
     
-  
   }
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad CheckoutPage');
     this.stripe.setPublishableKey('pk_test_lvYbO9Bkuk6CjyrECtebFF4a');
+    this.storage.get('userInfo').then((data) => {
+      this.userName = data.userName;            
+    });
   }
 
 
@@ -52,8 +64,7 @@ export class CheckoutPage {
       cvc: this.cardCVV
      };
 
-     // Run card validation here and then attempt to tokenise
-     
+     // Run card validation here and then attempt to tokenise     
      this.stripe.createCardToken(card)
         .then(  (token: any) => {
           console.log('First');
@@ -65,63 +76,89 @@ export class CheckoutPage {
           }
           console.log('Second')
           console.log(payment);
-        
-        //   const url = 'http://localhost/stripe/stripe.php';
-        //   const headers = {
-        //     "Content-type": "application/x-www-form-urlencoded"
-        //     };
-
-          
-        //   return this.http.post(url, payment, {Headers: headers})
-        //                   .then((response) => {
-        //                         console.log('successfully submitted payment for £', payment.price);
-        //   },
-        //  (error) => {
-        //     console.warn("failed to call stripePayment.php", error);
-        // });
-
-
         })
         .catch(error => console.error(error));
   }
 
-
   makePdf() {
+    this.storage.get("userResults").then((data) => {
+      console.log(data);
+      if (data === null) {
+        return
+      } else {
+        this.buildPdf(data);        
+      }      
+    });  
+  }
+
+  private buildPdf(data: any) {
     pdfmake.vfs = pdfFonts.pdfMake.vfs;
+    const res = [];
+    const documentTitle = {
+      text: 'Numerología para tu vida',
+      style: 'header'
+    };
+    res.push(documentTitle);
+    const documentDate = {
+      text: new Date().toLocaleDateString(),
+      style: 'docDate'
+    };
+    res.push(documentDate);
+    const documentUserName = {
+      text: this.userName,
+      style: 'userName'
+    };
+    res.push(documentUserName);
+    const documentUserGreeting = {
+      text: 'A continuación te presentamos los resultados de tu estudio numerológico',
+      style: 'numberContent'
+    };
+    res.push(documentUserGreeting);
+    data.forEach((r: NumberView) => {
+      const numberResultNumberName = {
+        text: r.numberName,
+        style: 'numberName'
+      };
+      res.push(numberResultNumberName);
+      const numberResultContent = {
+        text: r.content,
+        style: 'numberContent'
+      };
+      res.push(numberResultContent);
+    });
     const docDefinition = {
-      content: [
-        { text: 'REMINDER', style: 'header' },
-        { text: new Date().toTimeString(), alignment: 'right' },
-        { text: 'From', style: 'subheader' },
-        { text: 'To', style: 'subheader' },
-        {
-          ul: [
-            'Bacon',
-            'Rips',
-            'BBQ',
-          ]
-        }
-      ],
+      content: res,
       styles: {
         header: {
+          fontSize: 32,
+          alignment: 'center',
+          color: '#068587',
+        },
+        docDate: {
+          margin: [0, 0, 0, 20],
+          color: '#C3D3D3',
+          alignment: 'right'
+        },
+        numberName: {
+          color: '#69ADBA',
           fontSize: 18,
           bold: true,
+          alignment: 'right'
         },
-        subheader: {
-          fontSize: 14,
+        userName: {
+          color: '#69ADBA',
+          fontSize: 18,
           bold: true,
-          margin: [0, 15, 0, 0]
-        },
-        story: {
-          italic: true,
           alignment: 'center',
-          width: '50%',
+        },
+        numberContent: {
+          fontSize: 14,
+          alignment: 'justify',
+          margin: [0, 0, 0, 20]
         }
       }
     };
-
     this.pdfObj = pdfmake.createPdf(docDefinition);
-
   }
 
   downloadPdf() {

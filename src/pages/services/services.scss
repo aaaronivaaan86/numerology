@@ -24,4 +24,26 @@ page-services {
       .StripeElement--webkit-autofill {
         background-color: #fefde5 !important;
       }
+
+      .check-container {
+        text-align: left;        
+      }
+
+      .check {
+        padding-left: 10%;
+      }
+
+      .serv-desc {
+        font-size: 1.1rem !important;
+        color: #068587;
+      }
+
+      .text-price {
+        text-align: center;
+      }
+      
+      .text-danger {
+        color: #fa755a;
+      }
+
 }

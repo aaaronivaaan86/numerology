@@ -10,6 +10,7 @@ $colors : (
 page-about {
     .title {
         color: color($colors, darkblue-color);
+        // font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
     .form-label {
         color: color($colors, mediumblue-color);

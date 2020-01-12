@@ -142,6 +142,7 @@ export class NumbersService {
 
   constructor(private storageService: Storage, private numberContent: NumberContentService) {
 
+    
     try {
       this.storageService.get("userInfo").then((userInfo) => {
 
@@ -173,22 +174,49 @@ export class NumbersService {
 
   }
 
-  getPayNumbers(service: ServiceModel[]) {
-    service.forEach(serv => {
-      this.userNumberResults.push(this.buildUserNumber(serv));
-    });
-
-    return this.userNumberResults;
+  getPayNumbers(services: ServiceModel[]) {
+    
+    this.userNumberResults.length = 0;
+    // Check for MotherLstNAme  
+    if (services.find(x => x.id === 12) != undefined && this.is_empty(this.userInfoObj.userMLast) ) {
+      return
+    } else {
+      services.forEach(serv => {
+        this.userNumberResults.push(this.buildUserNumber(serv));          
+      });
+      return this.userNumberResults;    
+    }
   }
 
-  private buildUserNumber(service: ServiceModel) {
-      
+  private buildUserNumber(service: ServiceModel) {      
     const userNumber: NumberView = new NumberView();
     userNumber.id = service.id;
     userNumber.numberName = service.name;
-    userNumber.userNmuber = Number(this.numberFuncList.find(x => x.id === service.id).service(this.userInfoObj)) ;    
-    userNumber.content = this.numberContent.getNumberContent(service.id.toString(), userNumber.userNmuber.toString(), this.userInfoObj.userName);
-    // console.log(userNumber);
+    
+    console.log(service);    
+    let userNum: any;
+    if (service.id === 26  || service.id === 33) {
+        console.log('Build User');
+        userNum = this.numberFuncList.find(x => x.id === service.id).service(this.userInfoObj);
+
+        console.log(userNum);
+        
+        userNumber.content = this.numberContent.getNumberContent(service.id.toString(), userNum, this.userInfoObj.userName);    
+    } else {
+      userNum = Number(this.numberFuncList.find(x => x.id === service.id).service(this.userInfoObj));
+      userNum === NaN ? 
+        userNumber.userNmuber = this.numberFuncList.find(x => x.id === service.id).service(this.userInfoObj) :
+        userNumber.userNmuber = userNum;
+      userNumber.content = this.numberContent.getNumberContent(service.id.toString(), userNumber.userNmuber.toString(), this.userInfoObj.userName);
+  
+    }
+
+    // userNum = Number(this.numberFuncList.find(x => x.id === service.id).service(this.userInfoObj));
+    // userNum === NaN ? 
+    //   userNumber.userNmuber = this.numberFuncList.find(x => x.id === service.id).service(this.userInfoObj) :
+    //   userNumber.userNmuber = userNum;
+    // userNumber.content = this.numberContent.getNumberContent(service.id.toString(), userNumber.userNmuber.toString(), this.userInfoObj.userName);
+
     return userNumber;
   }
 
@@ -410,7 +438,7 @@ export class NumbersService {
     const numbersArray: Array<number> = this.getSmallChallenge(birthDay, birthMonth, birthYear);
     const numberResult = Math.abs(numbersArray[0] - numbersArray[1]);
     console.log('Constant Chlallenge: ' + numberResult);
-
+    return numberResult;
   }
 
   private getFinalChallenge(birthMonth: Array<string>, birthYear: Array<string>) {
@@ -504,9 +532,16 @@ export class NumbersService {
 
   private getMaternalExpectations(userLast: string) {
     console.log('Maternal Expectations');
-    let userNameArray = [];
-    userNameArray = userLast.match(/[aeioubcdfghjklmnpqrstvwxyzáéíóúüï]/ig);
-    return this.reduceLetters(userNameArray);
+
+    if (this.is_empty(userLast)) {
+      console.log('User MLast is empty');      
+      return;
+    } else {
+      let userNameArray = [];
+      userNameArray = userLast.match(/[aeioubcdfghjklmnpqrstvwxyzáéíóúüï]/ig);
+      return this.reduceLetters(userNameArray);              
+    }
+
   }
 
 
@@ -628,6 +663,8 @@ export class NumbersService {
       .sort()
       .filter((v, i, a) => a.indexOf(v) === i);
     const userMissingLetters = this.numbersArray.filter(n => userNumbers.indexOf(n) === -1);
+    console.log('Missing Letters');
+    
     console.log(userMissingLetters);
     return userMissingLetters;
   }
@@ -689,6 +726,29 @@ export class NumbersService {
   private caseInsensitiveComp(strA, strB) {
     return strA.toLowerCase().localeCompare(strB.toLowerCase());
   }
+
+
+  private is_empty(checkString)
+  {
+     return ( 
+          (typeof checkString == 'undefined')
+                      ||
+          (checkString == null) 
+                      ||
+          (checkString == false)  //same as: !checkString
+                      ||
+          (checkString.length == 0)
+                      ||
+          (checkString == "")
+                      ||
+          (checkString.replace(/\s/g,"") == "")
+                      ||
+          (!/[^\s]/.test(checkString))
+                      ||
+          (/^\s*$/.test(checkString))
+    );
+  }
+
 
 
 

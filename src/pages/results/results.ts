@@ -475,8 +475,11 @@ export class ResultsPage {
     this.getInitialLetter(userNames);
     this.getPersonalSeal(userNames);
     this.getPaternalExpectations(userFLast);
-    this.getMaternalExpectations(userMLast);
-    this.getActivities(userNamesSpaces, userFLast, userMLast);
+    
+    // this both numbers need the mLast
+    // this.getMaternalExpectations(userMLast);
+    // this.getActivities(userNamesSpaces, userFLast, userMLast);
+    
     this.getInnerOportunities(userNames, userLasts);
     this.getOuterOportunities(userNames, userLasts);
     this.getGrowOpportunities(userNames, userLasts);

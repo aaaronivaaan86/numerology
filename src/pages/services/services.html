@@ -1,8 +1,7 @@
 
 <ion-header>
-
-  <ion-navbar>
-    <ion-title>Otros servicios</ion-title>
+  <ion-navbar color="mediumblue">
+    <ion-title>Completa tu estudio numerológico</ion-title>
   </ion-navbar>
 
 </ion-header>
@@ -10,7 +9,7 @@
 
 <ion-content padding>
 
-  <ion-grid text-center>
+  <ion-grid >
     <ion-row>
       <ion-col>
         {{ serviceDescription }}
@@ -18,46 +17,53 @@
     </ion-row>
     <ion-row>
       <ion-col>
-        Selected
-      </ion-col>
-      <ion-col>
-        Service Name
-      </ion-col>
-      <ion-col>
-        Price
-      </ion-col>
-    </ion-row>
-    <ion-row *ngFor="let s of serviceList">
-      <ion-col>
-        <ion-checkbox color="secondary" (ionChange)="addToCart(s, $event.checked)"></ion-checkbox>
+        Check
       </ion-col>
 
       <ion-col>
+        Número
+      </ion-col>
+      <ion-col class="text-price">
+        Precio
+      </ion-col>
+    </ion-row>
+    <ion-row *ngFor="let s of serviceList"  >
+      <ion-col class="ion-text-center check-container" >
+        <ion-checkbox class="check" color="secondary" (ionChange)="addToCart(s, $event.checked)"></ion-checkbox>
+      </ion-col>
+
+      <ion-col class="ion-text-center">
         <img [src]="s.imgsrc" alt="service_img" >
       </ion-col>
 
-      <ion-col [tooltip] ="s.tooltip"  positionV="bottom" arrow>
+      <ion-col [tooltip] ="s.tooltip"   class="ion-text-start serv-desc">
         {{ s.name }}
       </ion-col>
+      
       <ion-col>
         {{ s.price | currency }}
       </ion-col>
     </ion-row>
 
+
+  </ion-grid>
+
+  <ion-grid text-center>
     <ion-row>
       <ion-col>
         {{ totalAmount | currency }}
       </ion-col>
     </ion-row>
-
     <ion-row>
+      <ion-col size="12" class="text-danger" *ngIf="showError" >
+        <!-- Por favor, ingresa tus datos para poder realizar el cálculo -->
+        Por favor, selecciona los números que deseas obtener
+
+      </ion-col>
       <ion-col>
         <button ion-button outline (click)= "goCheck()"  >Pagar</button>
       </ion-col>
     </ion-row>
-
-
-
   </ion-grid>
 
 

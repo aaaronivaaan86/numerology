@@ -319,7 +319,7 @@ export const  numbersList: ServiceModel[] = [
     },
     {
       id: 36,
-      name: 'Pináculos',
+      name: 'Oportunicades de crecimiento y evolución',
       imgsrc: 'assets/icon/evolucion_vida.svg',
       userNumber: 0,
       price: 50,
