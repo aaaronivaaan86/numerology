@@ -126,6 +126,13 @@ export class CheckoutPage {
       };
       res.push(numberResultContent);
     });
+
+    const appLink = {
+      text: 'www.numerologyapp.com',
+      style: 'footer'
+    };
+    res.push(appLink);
+
     const docDefinition = {
       content: res,
       styles: {
@@ -155,6 +162,12 @@ export class CheckoutPage {
           fontSize: 14,
           alignment: 'justify',
           margin: [0, 0, 0, 20]
+        },
+        footer: {
+          color: '#69ADBA',
+          fontSize: 12,
+          alignment: 'center',
+          margin: [20, 0, 0, 0]
         }
       }
     };

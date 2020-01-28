@@ -431,7 +431,6 @@ export class ResultsPage {
     // console.log('User Names');
     // console.log(userNames);
 
-
     // nedded for getActivities
     const userNamesSpaces = this.userInfo.userName.trim().toLowerCase();
     const userFLast = this.userInfo.userLast.trim().toLowerCase();
@@ -445,19 +444,19 @@ export class ResultsPage {
     // console.log('User Last');
     // console.log(userLasts);
 
-    // Date Variables
+    //* Date Variables
     const birthDate = this.userInfo.userBirth.toString().split('-');
     const birthYear = birthDate[0].split('');
     const birthMonth = birthDate[1].split('');
     const birthDay = birthDate[2].split('');
 
     // * *************** FREE NUMBERS
-    // Names numbers
+    //* Names numbers
     this.getInnerNumber(userNames, userLasts);
     this.getOuterNumber(userNames, userLasts);
     this.getQualityNumber(userNames, userLasts);
 
-    // Date numbers    
+    //* Date numbers    
     this.getNumberOfDesire(birthDay);
     this.getNumberOfPersonality(birthMonth);
     this.getNumberOfLife(birthDay, birthMonth, birthYear);
@@ -476,9 +475,9 @@ export class ResultsPage {
     this.getPersonalSeal(userNames);
     this.getPaternalExpectations(userFLast);
     
-    // this both numbers need the mLast
-    // this.getMaternalExpectations(userMLast);
-    // this.getActivities(userNamesSpaces, userFLast, userMLast);
+    //* this both numbers need the mLast
+    this.getMaternalExpectations(userMLast);
+    this.getActivities(userNamesSpaces, userFLast, userMLast);
     
     this.getInnerOportunities(userNames, userLasts);
     this.getOuterOportunities(userNames, userLasts);
@@ -636,6 +635,8 @@ export class ResultsPage {
     
     console.log('getActivities');
     console.log(nameLastArray);    
+    console.log(this.reduceLetters(lettersArray));
+    this.numbersList.find(n => n.id === 13).userNumber = this.reduceLetters(lettersArray);
     return this.reduceLetters(lettersArray);
   }
 
